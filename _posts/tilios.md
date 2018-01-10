@@ -1,3 +1,21 @@
+Oublier le titre et parcourir "l'erreur et le droit à l'erreur" si important dans les Tiers Lieux, Hackerspace et Fablab. Puis notre trop grande confiance dans nos traits de caractère et l' expérience de Milgram sur l’obéissance.
+
+Le psychologue et auteur Richard Nisbett revient lui sur « l’erreur d’attribution fondamentale » qui consiste à penser que les objets – et les gens – agissent en fonction de caractéristiques qui leur sont intrinsèques alors que dans une grande majorité de cas leur comportement est dicté par la situation. Cette erreur a dominé la physique de l’époque d’Aristote. Ce dernier disait que si une pierre tombe, c’est parce qu’elle possède la « propriété de gravité ». Bien sûr, on sait aujourd’hui que la chute des corps, ainsi que toutes les formes de mouvement, est en réalité la conséquence de l’interaction entre différentes forces. Mais cette théorie d’Aristote a fortement marqué les esprits occidentaux et influence notamment notre façon de juger les comportements humains.
+
+Nisbett cite à ce propos les réactions à l'[expérience de Milgram](https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Milgram) sur l’obéissance :
+
+> « Lorsque j’enseigne cette expérience aux étudiants de premier cycle, je suis sûr de n’avoir jamais convaincu un seul d’entre eux que leur meilleur ami aurait pu délivrer un tel choc électrique à ce gentil monsieur, et encore moins qu’eux mêmes auraient pu le faire. Leur armure de vertu les protège d’un comportement aussi terrible. Aucune explication sur le pouvoir de la situation unique dans laquelle le sujet de Milgram a été placé ne suffit à les convaincre que leur armure pourrait être ébréchée. »
+
+Nisbett a d’ailleurs écrit un livre sur les différences culturelles intitulé La géographie de la pensée : [The Geography of Thought: How Asians and Westerners Think Differently - and Why](http://scodedigital.com/6f/226630/6f69e4ae4942ec70fb2d824b59436c7f.html)
+
+"En prenant la situation sous l’angle classique du type d’emploi et d’intégration, nous voyons que ce mode de vie généralisé se caractérise par un sentiment de « lutte quotidienne » permanent, diffus, de basse intensité, qui se cumule avec celui de « perdre sa vie à la gagner », générant une absence de sens. Le problème majeur pourrait être celui d’un salaire trop peu élevé, qui lui permettrait le cas échéant d’améliorer ses conditions de vie et de réduire son temps de travail afin de consacrer plus de temps à des activités personnelles plus épanouissantes, et donc de mieux se satisfaire de son emploi. Or, sans réfuter cette analyse dont les termes se fondent en dernière instance sur un meilleur partage du temps et des richesses, nous pensons que l’on peut aussi isoler deux autres facteurs clés majeurs." Habiter aux frontières de l’espace informel-illégal : le squat comme support à la déprise du précariat ?,Par Guillaume Six, Le sujet dans la cité, 2011/1 (n° 2), via [Cairn](https://www.cairn.info/revue-le-sujet-dans-la-cite-2011-1-page-227.htm?1=1&DocId=319683&hits=6304+6303+6301+6296+).
+
+Les coworking ne sont pas si différent des usines de Jacques Tati, les Tiers lieusss sauce mayonnaise sont des vendeurs de rêves aux mêmes Processus que JP Morgan (oui les rêves sont vos productions donc vous les vendre sans vous avoir même payé pour vous en déposseder c'est pas très très bien), Les Digital trucs sauce ketchup sont des arnaques au même titre que GAFAM (ils ne produisent rien, vous esbroufent avec du divertissement et du collaboratif que ça profitent qu'à eux en vendant votre intimité au plus offrant tout en captant les moyens financiers destinés à soutenir Innovation et transition)
+Allons y, demain nous ferons une note de communication "d'étude" sur les Tiers-Lieux en prenant pour modèle ouishare, MakeSense, FrenchTech. En attendant :
+
+"la distinction entre l’artisanat et la gentrification est assez floue. Les ateliers de fabrication numérique ont été très utiles à certains employés du capitalisme cognitif épuisés par leur travail de bureau abrutissant, mais ils ont aussi suscité la colère de ceux qui n’avaient pas la chance d’occuper des postes si enviables", [Le taylorisme à la mode hippie](https://blog.mondediplo.net/2017-12-13-Le-taylorisme-a-la-mode-hippie), par Evgeny Morozov, 13 décembre 2017, dans Le mOnde Diplomatique.
+
+
 Dense comme 3 abstracts de publication scientifique mais tout autant intéressant que fourni en ressources utiles et réflexions, "Les tiers-lieux et le territoire -La géographie de la création " de Raphaël Suire, Professor in Innovation Management, University of Nantes.
 
 > " L’engouement autour des tiers-lieux provient de la volonté de quelques-uns d’organiser les flux et de réduire l’incertitude du qui est le voisin et de ce qu’il sait faire ou souhaite faire a priori. Pour cela, les tiers-lieux qui, souvent vont s’auto-proclamer comme tels, vont se doter d’objectifs ou de règles de fonctionnement et d’accès qui vont réduire l’incertitude des flux entrants. L’accès peut être payant ou gratuit, on peut être simplement et temporairement hébergé, on peut bénéficier d’accompagnement, on peut se former, on peut fabriquer, explorer ou prototyper, en un mot, bricoler, pour reprendre Levi-Strauss (1962). Pour autant, ce n’est pas parceque l’on réduit l’incertitude à l’entrée que l’on maitrise le flux sortant. Dans la pensée sauvage, Levi-Strauss fait cette distinction essentielle entre l’ingénieur et le bricoleur, entre une science du concret et une science plus abstraite. "
@@ -10,9 +28,11 @@ Dense comme 3 abstracts de publication scientifique mais tout autant intéressan
 interest among learners and the variety of the local educational cultures » _Voir Claire Kramsch, (1993), « Context and Culture in Language Teaching », Oxford, éd. OUP Oxford, coll. Oxford Applied Linguistics p. 247._
 
 Lorsque le marketing l'emporte sur la rigueur de construction de défintions et d'instruments, libres et open source, de conception, une novlang qui n'est pas un toisième langage s'installe.
-Des enfants jouent sur une table basse. En langage pedagogo cela donne :
+Des enfants jouent sur une table basse. En langage "pedagogo nouveau" cela donne :
 
 ![](https://framapic.org/7VEqCnbTlDvK/EqBAsPhh7rDy)
+
+"Le marketing échoue totalement dans cette entreprise de réconciliation entre l’homme et la technique. Il nous mène par le bout du nez, c’est-à-dire par notre désir de « faire comme tout le monde », « ne pas être dépassé », autrement dit par le regard stupéfait voire stupide (de stupor : engourdissement) que nous portons les uns sur les autres. Nous idolâtrons les objets un temps très court puis nous les délaissons misérablement. La force de Simondon est d’avoir parfaitement compris ce relâchement, cet abandon de nos créations (quel dommage !). Ce que le philosophe promeut pour résoudre la question, c’est une forme de culture technicienne. Connaître pour apprécier, entretenir, maintenir. Simondon demande que l’homme devienne un « technologue » ou un « mécanologue » : un homme respectueux de son œuvre technicienne" Irénée Régnauld, [Innover avec Gilbert Simondon, ou comment réapprendre à faire aimer les machines](http://maisouvaleweb.fr/innover-avec-gilbert-simondon-ou-comment-reapprendre-a-faire-aimer-les-machines/)
 
 il n'y a de créativité possible que dans un système de règles, d'après Foucault.
 Peut-on alors en manipulant ces règles, comme le font des facilitateurs / médiateurs (médias) dans un processus d'intelligence collective, fabriquer le consentement ? Dans une organisation démocratique ? Dans une entreprise "libérée" ? Dans une holacratie ?
@@ -35,3 +55,10 @@ La démocratie dans la recherche est à ce prix du mépris ?
 Roland Gori : « [La démocratie dans la recherche n’est pas pour demain](https://sciences-critiques.fr/roland-gori-la-democratie-de-la-recherche-nest-pas-pour-demain/)» dans Sciences Critiques.
 
 Une lettre ouverte de la communauté des technologies de l’information invite à réfléchir un peu à la notion de responsabilité de chacun, compte tenu de l’enjeu du numérique pour nous tous. Elles et ils estiment que ce n’est pas la technologie ou le profit qui doivent guider leur activité mais des valeurs et des principes,[The Copenhagen Letter](https://copenhagenletter.org/), 2017.
+
+## Les erreurs 
+
+[OxaMYNE ou “l’entrepreneuriat coopératif”](https://medium.com/@rieult/oxamyne-ou-lentrepreneuriat-coop%C3%A9ratif-9cd20e177fd7)
+En réponse et clarification à la publication de l’article paru dans Makery “A Lyon, la Myne expérimente l’entrepreneuriat coopératif”
+
+> En bref: le vocabulaire et l’approche de cet article, résoluement “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur.
