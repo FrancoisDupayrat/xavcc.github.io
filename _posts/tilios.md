@@ -1,3 +1,28 @@
+---
+layout: post
+title: "Tiers-ieux et artificialité : La faute à pas de sciences ?"
+date: 2018-01-10
+categories: ["hsociety"]
+---
+
+
+## Tiers-Lieux et artificialité 
+
+Question posée publiqument le 17 octobre 2017 après 3 ans de receuil de notes, d'interview et d'intérrogations.
+
+si vous voulez participer à la réflexion, voici quelques notes / ressources / recensements, utiles :
++ Être ou ne pas Être… Artificiel, Damasio à Rennes, notes et vidéos https://hackmd.io/s/ByZVVgL6b#
++ [Questions posées il y quelques semaines] Dans les tiers lieux que vous faites | fréquentez | connaissez, quels actions (et pas juste poser des post-it) | ateliers | mesures, pratiquez-vous sur (documentations bienvenues dans vos réponses) :
+• Libertés et sécurités informatique
+• Prévision et prévention des accidents corporels
+• libertés et égalité des genres
+• accessibilité, perméabilité, handicap
+• bioéthique et sciences
+réponses et listes : https://www.facebook.com/groups/tilios/permalink/1628361653861998/
+{Petit indice : c'est pour compléter movilab.org}
++ Panorama des circonstances qui provoquent des renchttps://hackmd.io/s/ByZVVgL6b#ontres pour faire tiers-lieux : http://movilab.org/index.php…
++ Article critique de makery sur les Tiers-Lieux : http://www.makery.info/…/le-tiers-lieu-peut-il-faire-ecole…/
+
 Oublier le titre et parcourir "l'erreur et le droit à l'erreur" si important dans les Tiers Lieux, Hackerspace et Fablab. Puis notre trop grande confiance dans nos traits de caractère et l' expérience de Milgram sur l’obéissance.
 
 Le psychologue et auteur Richard Nisbett revient lui sur « l’erreur d’attribution fondamentale » qui consiste à penser que les objets – et les gens – agissent en fonction de caractéristiques qui leur sont intrinsèques alors que dans une grande majorité de cas leur comportement est dicté par la situation. Cette erreur a dominé la physique de l’époque d’Aristote. Ce dernier disait que si une pierre tombe, c’est parce qu’elle possède la « propriété de gravité ». Bien sûr, on sait aujourd’hui que la chute des corps, ainsi que toutes les formes de mouvement, est en réalité la conséquence de l’interaction entre différentes forces. Mais cette théorie d’Aristote a fortement marqué les esprits occidentaux et influence notamment notre façon de juger les comportements humains.
@@ -14,7 +39,6 @@ Les coworking ne sont pas si différent des usines de Jacques Tati, les Tiers li
 Allons y, demain nous ferons une note de communication "d'étude" sur les Tiers-Lieux en prenant pour modèle ouishare, MakeSense, FrenchTech. En attendant :
 
 "la distinction entre l’artisanat et la gentrification est assez floue. Les ateliers de fabrication numérique ont été très utiles à certains employés du capitalisme cognitif épuisés par leur travail de bureau abrutissant, mais ils ont aussi suscité la colère de ceux qui n’avaient pas la chance d’occuper des postes si enviables", [Le taylorisme à la mode hippie](https://blog.mondediplo.net/2017-12-13-Le-taylorisme-a-la-mode-hippie), par Evgeny Morozov, 13 décembre 2017, dans Le mOnde Diplomatique.
-
 
 Dense comme 3 abstracts de publication scientifique mais tout autant intéressant que fourni en ressources utiles et réflexions, "Les tiers-lieux et le territoire -La géographie de la création " de Raphaël Suire, Professor in Innovation Management, University of Nantes.
 
@@ -56,9 +80,14 @@ Roland Gori : « [La démocratie dans la recherche n’est pas pour demain](http
 
 Une lettre ouverte de la communauté des technologies de l’information invite à réfléchir un peu à la notion de responsabilité de chacun, compte tenu de l’enjeu du numérique pour nous tous. Elles et ils estiment que ce n’est pas la technologie ou le profit qui doivent guider leur activité mais des valeurs et des principes,[The Copenhagen Letter](https://copenhagenletter.org/), 2017.
 
-## Les erreurs 
+## Les erreurs et approximations
+
+### Par la Presse
 
 [OxaMYNE ou “l’entrepreneuriat coopératif”](https://medium.com/@rieult/oxamyne-ou-lentrepreneuriat-coop%C3%A9ratif-9cd20e177fd7)
 En réponse et clarification à la publication de l’article paru dans Makery “A Lyon, la Myne expérimente l’entrepreneuriat coopératif”
 
 > En bref: le vocabulaire et l’approche de cet article, résoluement “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur.
+
+### Par des groupes de recherche
+
