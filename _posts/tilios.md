@@ -24,4 +24,4 @@ Par le pouvoir de programmer, d'émettre, de diffuser, de réguler et de récept
 
 La structure syntaxique est construite à partir des éléments du lexique et d'éléments fonctionnels, soudés les uns aux autres. Les relations de vérification de traits, d'accord et de cas, les mouvements liés à la structure informationnelle sont opérés dans la structure syntaxique.
 
-Ainsi, le consentement serait la simple validation d'une expression de pouvoir d'un petit groupe d'individus sur un groupe plus étendu et assujetti à la fabrication par une élite ?
+Ainsi, le consentement serait la simple validation d'une expression de pouvoir d'un petit groupe d'individus sur un groupe plus étendu et assujetti à la fabrication par une élite ? ([Noam Chomsky La Fabrication du Consentement partie 1](https://youtu.be/waUIPMXuHV0))
