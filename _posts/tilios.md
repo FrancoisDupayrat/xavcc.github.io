@@ -25,3 +25,13 @@ Par le pouvoir de programmer, d'émettre, de diffuser, de réguler et de récept
 La structure syntaxique est construite à partir des éléments du lexique et d'éléments fonctionnels, soudés les uns aux autres. Les relations de vérification de traits, d'accord et de cas, les mouvements liés à la structure informationnelle sont opérés dans la structure syntaxique.
 
 Ainsi, le consentement serait la simple validation d'une expression de pouvoir d'un petit groupe d'individus sur un groupe plus étendu et assujetti à la fabrication par une élite ? ([Noam Chomsky La Fabrication du Consentement partie 1](https://youtu.be/waUIPMXuHV0))
+
+L'une des pistes de sauf-conduit serait les Tiers-lieu(X) Libres et Open Source qui pratiquent un Tiers-Scientifique(S) ?
+Tiers-Scientifique était une gratification reçue de plein fouet à Sciences Po Lyon avec les amis de la Myne ecohacklab, j'avais ainsi pensé que si la charité des Congrès de sachants était aussi prolifique que celle imputée aux Tiers Monde, alors d'ici 10 ans nous serions des scientifiques en voie de développement.
+La démocratie dans la recherche est à ce prix du mépris ?
+
+> « La science est une chose trop importante pour être laissée entre les mains des seuls savants. » (Carl E. Sagan)
+
+Roland Gori : « [La démocratie dans la recherche n’est pas pour demain](https://sciences-critiques.fr/roland-gori-la-democratie-de-la-recherche-nest-pas-pour-demain/)» dans Sciences Critiques.
+
+Une lettre ouverte de la communauté des technologies de l’information invite à réfléchir un peu à la notion de responsabilité de chacun, compte tenu de l’enjeu du numérique pour nous tous. Elles et ils estiment que ce n’est pas la technologie ou le profit qui doivent guider leur activité mais des valeurs et des principes,[The Copenhagen Letter](https://copenhagenletter.org/), 2017.
