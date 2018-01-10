@@ -80,6 +80,17 @@ Roland Gori : « [La démocratie dans la recherche n’est pas pour demain](http
 
 Une lettre ouverte de la communauté des technologies de l’information invite à réfléchir un peu à la notion de responsabilité de chacun, compte tenu de l’enjeu du numérique pour nous tous. Elles et ils estiment que ce n’est pas la technologie ou le profit qui doivent guider leur activité mais des valeurs et des principes,[The Copenhagen Letter](https://copenhagenletter.org/), 2017.
 
+## Les choix ne sont pas une option
+
+Tiers-lieux libres de Open Source comme « [configuration](socialehttps://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html) »  activée par un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux) ou tiers-lieu réduit à sa simple spatialité de 4 murs et un toit à usage d'espace ouvert et partagé, il faudra choisir.
+
+On ne cherche plus à savoir qui a les connaissances suffisantes pour mettre en œuvre telle procédure, mais qui a accès aux données dont l’analyse déterminera la stratégie de développement des activités. Alors que le « vieux » capitalisme organisait une concurrence entre moyens de production et maîtrise de l’offre, ce qui, dans une économie mondialisée n’a plus vraiment de sens, un nouveau capitalisme (dont nous verrons plus loin qu’il se nomme le capitalisme de surveillance) est né, et repose sur la production d’informations, la maîtrise des données et donc des processus.
+Et quand la production d'information est biaisée, tronquée, manipulée... ?
+[Shoshana Zuboff](https://en.m.wikipedia.org/wiki/Shoshana_Zuboff) a identifié dans la transformation des systèmes de production : l’informationnalisation (informating). dans un livre très visionnaire, In the Age Of The Smart Machine en 1988, elle décrit
+les mécanismes du capitalisme productiviste du XXe siècle ont connu plusieurs mouvements, plus ou moins concomitants selon les secteurs : la mécanisation, la rationalisation des tâches, l’automatisation des processus et l’informationnalisation
+
+Tiers-lieu IS the New smart.
+
 ## Les erreurs et approximations
 
 ### Par la Presse
@@ -90,4 +101,23 @@ En réponse et clarification à la publication de l’article paru dans Makery �
 > En bref: le vocabulaire et l’approche de cet article, résoluement “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur.
 
 ### Par des groupes de recherche
+
+_Notes àl'état de vrac pour analyse et critique scientifique-
+
+Par le cas d'étude d'une note du #RGCS "[Tiers-lieux et espaces collaboratifs : laboratoires et révélateurs des nouvelles pratiques de travail](https://collaborativespacesstudy.files.wordpress.com/2016/10/note2_rgcs_2017_version-finale.pdf)" 
+
+cette publication RGCS
+Donc l'avis du conseille scientifique présidé par Dominique Bourg (https://t.co/1lGHSXUYPb) sur movilab (https://t.co/2jKrBfnT3D) valide du storyltelling selon vous ? : https://t.co/CIVGp2SyE6
+
+"tout en revendiquant l’appartenance voire la paternité de ces espaces à l’instar des « cantines numériques », premières formes d’expression du tiers-lieu en France" #Oups le hackersapce les tanneries c'est 1998 (https://t.co/6P4ocvkrj0) et Elaboratoire 1997
+
+ Par hasard, les travaux sur les circonstances de rencnontres qui permettent le processus tiers-lieux (Thése Dr Burret) https://t.co/kKyV3Oe7ad
+"Cela va du cas des slashers" comme vous écrivez ?
+
+ Et baser vos tentatives de mesure d’occurrences de vocable sur google trends... uniquement
+C'est plus que léger
+(Grosse methode scientifique et outils de travail là)
+
+Enfin concernant vos "PEC" et trucs hybrides, il y a bien plus sérieux qui pitch et fuck up nignt.
+Comme monnaie libre et gouvernance : https://t.co/AvL9ZaBvuY
 
