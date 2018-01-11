@@ -13,12 +13,32 @@ Il s'agit de recherhcer une possible métabolisation des cultures Tiers-Lieux, a
 
 La naturalité, dans son sens environnemental, renvoie au caractère sauvage d'un paysage ou d'un milieu naturel. À l'opposé, un biotope très artificialisé peut présenter une biodiversité élevée, artificielle et de peu d'intérêt écologique, voire dangereuse pour l'environnement local (Exemple : arboretum, parc animaliers accueillant une grande diversité floristique et faunistique). Par exemple, la proximité de rejets d'effluents d'épuration ou d'eau chaude de centrales nucléaires peut permettre l'explosion de certains organismes, sans être un idéal de conservation).
 
+L’histoire de l’Homme commence quelque part dans la courbe de la première pierre jetée pour chasser la première proie ([Sloterdjik](https://fr.wikipedia.org/wiki/Peter_Sloterdijk)). Ce sont les hommes et les femmes qui constituent le Tiers-lieux, l'histoire des tiers-lieux commencerait alors quelque part dans la courbe dans la tentative de première défintion pour cadre le concept ?
 
+Les 4 mécanismes d’homminisation (d'après [Peter Sloterdjik](https://fr.wikipedia.org/wiki/Peter_Sloterdijk))
 
++ Insulation (vouloir aller contre la pression de la sélection), volonté de s’isoler.
++ La suspension des corps (se libérer de la contrainte de s’adapter corporellement à l’extérieur -> [Théotrème d’Alsberg](http://com2710.dedalon.net/S_01_files/Sloterdijk_La%20pierre.pdf)), Interprète le devenir-humain comme l’effet d’une hyper-insulation, dont l’effet central consistait à émanciper le pré-homme
++ La néoténie (emporter des morceaux de son passé foetal et infantil), en biologie du développement, la conservation de caractéristiques juvéniles chez les adultes d'une espèce
++ La transposition (apprivoiser le dewalt -> hors avec les moyens du dedans)
+
+Ainsi le Tiers-Lieux pourrait, par la volonté de entités individuées qui s'y rencontre, tendre vers une insulation à la fois par son processus de différentation par ses spécifités propres tout autant que par son désir de perdurer au sein d'une explosotion numéraire des Tiers-Lieux soumise selection.
+
+Le Tiers-Lieu est un bien commun révélé, délimité, entretenu par et avec un collectif, il cherche à s'émanciper dans une société qui tend à le contraindre à une normalisation prédéfinie avec des rêgles antérieures à son agencement.
+
+Le Tiers-Lieux embarquent avec lui des morceaux des cultures qui l'ont fait nâitre, des mémoires de luutes et de frictions qui ont amenées [les circonstances de rencontres](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours). 
+
+Le Tiers-Lieux cherche à faire et être hors des sentiers battus mais avec les moyens "du dedans", avec les moyens des sentiers battus.
+
+Peut-on alors penser le Tiers-Lieux en dehors de la technique ? Ou nous faisons Tiers-Lieux  lorsque nous commençons à utiliser des outils ?
+
+Ainsi le Tiers-Lieux émerge comme un objet de curiosité, un objet d'étude, de découverte, popularisé par sa littérature propre, par des théses universitaires, par "[gouvernement souhaite enfin une mise en réseau nationale des lieux de médiation numérique (EPN, espaces de coworking, tiers lieux) afin de leur donner plus de visibilité et mutualiser des moyens](https://www.caissedesdepotsdesterritoires.fr/cs/ContentServer?pagename=Localtis%2FLOCActu%2FArticleActualite&cid=1250268602038)" (Caisse des dépots, Mars 2015)
 
 > Cette artificialité de la culture actuelle serait à l’origine du mouvement qui pousse chacun maintenant à aller ailleurs pour voir la « vraie vie des autres », pour vivre des expériences vraies. — (Marc Laplante, L’expérience touristique contemporaine: fondements sociaux et culturels, éditeur PUQ, 1996)
 
-dans un premier temps, le tiers-lieu sera appréhendé  comme un agencement institutionnel au travers des troisièmes lieux conceptualisées par [Ray Oldenburg](https://en.wikipedia.org/wiki/Ray_Oldenburg). Les troisièmes lieux seront distinguées des tiers-lieux et replacées dans leur contexte d’usage initial. Il sera démontré que les troisièmes lieux caractérisent en particulier des institutions à usages commerciales dont l’un des principaux attrait est de favoriser les relations de sociabilité entre individus. (Thése Dr antoine Burret, [https://tel.archives-ouvertes.fr/tel-01587759/document](https://tel.archives-ouvertes.fr/tel-01587759/document), pgae 8.)
+Si le tiers-lieu peut être appréhendé comme un agencement institutionnel au travers des troisièmes lieux conceptualisées par [Ray Oldenburg](https://en.wikipedia.org/wiki/Ray_Oldenburg). Les troisièmes lieux seront distinguées des Tiers-Lieux et replacées dans leur contexte d’usage initial. Il a été démontré que les troisièmes lieux caractérisent en particulier des institutions à usages commerciales dont l’un des principaux attrait est de favoriser les relations de sociabilité entre individus. (Thése Dr antoine Burret, [https://tel.archives-ouvertes.fr/tel-01587759/document](https://tel.archives-ouvertes.fr/tel-01587759/document), pgae 8.)
+
+Alors quelle sont les questions que posent les Tiers-Lieux ?
 
 Question posée publiqument le 17 octobre 2017 après 3 ans de receuil de notes, d'interview et d'intérrogations.
 
@@ -35,7 +55,7 @@ réponses et listes : https://www.facebook.com/groups/tilios/permalink/162836165
 + Panorama des circonstances qui provoquent des renchttps://hackmd.io/s/ByZVVgL6b#ontres pour faire tiers-lieux : http://movilab.org/index.php…
 + Article critique de makery sur les Tiers-Lieux : http://www.makery.info/…/le-tiers-lieu-peut-il-faire-ecole…/
 
-Oublier le titre et parcourir "l'erreur et le droit à l'erreur" si important dans les Tiers Lieux, Hackerspace et Fablab. Puis notre trop grande confiance dans nos traits de caractère et l' expérience de Milgram sur l’obéissance.
+Parcourir "l'erreur et le droit à l'erreur" si important dans les Tiers Lieux, Hackerspace et Fablab. Puis notre trop grande confiance dans nos traits de caractère et l' expérience de Milgram sur l’obéissance.
 
 Le psychologue et auteur Richard Nisbett revient lui sur « l’erreur d’attribution fondamentale » qui consiste à penser que les objets – et les gens – agissent en fonction de caractéristiques qui leur sont intrinsèques alors que dans une grande majorité de cas leur comportement est dicté par la situation. Cette erreur a dominé la physique de l’époque d’Aristote. Ce dernier disait que si une pierre tombe, c’est parce qu’elle possède la « propriété de gravité ». Bien sûr, on sait aujourd’hui que la chute des corps, ainsi que toutes les formes de mouvement, est en réalité la conséquence de l’interaction entre différentes forces. Mais cette théorie d’Aristote a fortement marqué les esprits occidentaux et influence notamment notre façon de juger les comportements humains.
 
@@ -47,6 +67,21 @@ Nisbett a d’ailleurs écrit un livre sur les différences culturelles intitul�
 
 >  «Un tiers-lieu ne se définit pas par ce que l’on en dit, mais par ce que l’on en fait…» (Le Manifeste des tiers-lieux)
 
+## Tiers-Lieux : Espace-Temps de frictions
+
+Le concept de tiers-lieu proposé par Oldenburg est à l’origine autant social que politique. Loin d’associer le tiers-lieu à un simple espace où se retrouver sur le chemin qui sépare la maison et le  travail,  Oldenburg  s’intéresse  fortement  au  vivre  ensemble  et  à  la question  de  la socialisation: pour lui, le tiers-lieu est avant tout un générateur de communautés ("Un FabLab c'est bine plus que 4 murs et 1 toit", Xavier Coadic, [Convaincre une mairie d’ouvrir un fablab : méthodes et retour d’expériences](https://medium.com/@XavierCoadic/convaincre-une-mairie-douvrir-un-fablab-m%C3%A9thodes-et-retour-d-exp%C3%A9riences-f8dace92df3), 2016). Dans le chapitre 2 de son ouvrage fondateur (The Great, Good Place. publié en 1989), oldenburg définit un tiers-lieu à la fois comme: 
+
+1. Un terrain neutre,un espace public ;
+2. Un lieu inclusif et isonomique où chacun peut  se  révéler  dans  sa  singularité  parce  qu’il  est  considéré  comme  un  égal  dans  la communauté ;
+3. Un contexte de conversation (on est là pour parler, et chacun a droit à la parole) ; 
+4. Un lieu accessible (physiquement et socialement) ; 
+5. Un ensemble de personnes qui coproduisent le lieu ; 
+6. Un cadre discret et ordinaire où l’atmosphère est ludique ; 
+7. Un prolongement de la maison puisqu’on s’y sent chez soi.
+
+Alors le tiers-lieu peut apparaitre comme un acte politique, au sens litérrale de transformation de la cité, sans partisanerie
+
+Antoine Burret ouvre d'ailleurs le postulat d'(une conception politique du tiers-lieu](https://fr.wikipedia.org/wiki/Tiers-lieu) à la suite de sathèse fournissant une définition scientifique du tiers-lieu.
 
 "En prenant la situation sous l’angle classique du type d’emploi et d’intégration, nous voyons que ce mode de vie généralisé se caractérise par un sentiment de « lutte quotidienne » permanent, diffus, de basse intensité, qui se cumule avec celui de « perdre sa vie à la gagner », générant une absence de sens. Le problème majeur pourrait être celui d’un salaire trop peu élevé, qui lui permettrait le cas échéant d’améliorer ses conditions de vie et de réduire son temps de travail afin de consacrer plus de temps à des activités personnelles plus épanouissantes, et donc de mieux se satisfaire de son emploi. Or, sans réfuter cette analyse dont les termes se fondent en dernière instance sur un meilleur partage du temps et des richesses, nous pensons que l’on peut aussi isoler deux autres facteurs clés majeurs." Habiter aux frontières de l’espace informel-illégal : le squat comme support à la déprise du précariat ?,Par Guillaume Six, Le sujet dans la cité, 2011/1 (n° 2), via [Cairn](https://www.cairn.info/revue-le-sujet-dans-la-cite-2011-1-page-227.htm?1=1&DocId=319683&hits=6304+6303+6301+6296+).
 
