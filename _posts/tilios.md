@@ -72,7 +72,22 @@ Si Tiers-Lieux libres et open source il y a, avec symétrie et non-nuisances des
 
 >  «Un Tiers-Lieux ne se définit pas par ce que l’on en dit, mais par ce que l’on en fait…» (Le Manifeste des tiers-lieux)
 
+Question philosophique intéressante… Pausée par [Aeris](https://imirhil.fr/) via le réseau mastodon](
+Peut-on trouver une formalisation capable d’interdire le crowdfunding de gauche sans interdire celui de droite ?
+C’est-à-dire un moyen de dire « pas OK » pour l’une et « OK » pour l’autre sans introduire de notion liée à l’individu qui va prendre la décision ?
 
+![](https://framapic.org/44U0v9ADAJip/zMVDjyEOW05T)
+![](https://framapic.org/HzLAHNAZE2kH/yOkkDhqe4BMc)
+
+À la réflexion, La seule campagne légalement valide est celle de Defend Europe qui fut rélaisée, ils ont obtenu plus de 40 000 euros sur un objectif de 50 000. Ils cherchent à faire respecter les lois en vigueur (nationales et internationales) qui ne sont pas appliquées, alors que Greenpeace, ici une copie fictionnelle absée sur le modèle de Defend Europe, cherche à bloquer des personnes qui respectent parfaitement la loi.
+
+> " Un tiers-lieu libre et open source est un tiers-lieu qui s’engage dans une démarche de transparence et d’ouverture par la   publication de retours d’expériences aux fins de duplication. Par cette caractéristique, il s’oppose aux franchises ou aux labels. Se qualifier de tiers-lieu libre et open source indique un engagement éthique et technique visant à permettre à l’ensemble des parties prenantes mais également aux bénéficiaires ultérieurs de «prendre tout ou en partie, d’adapter, modifier,partager les éléments du tiers lieu sans générer de fait une quelconque position dominante par ses concepteurs.» " ([Antoine Burret, Thése](https://tel.archives-ouvertes.fr/tel-01587759/document), page 23)
+
+il y a chez Defend Europe, avec un langage et un vocabulaire éprouvé emprunté à des prédécents acteurs plus éthiques, une récupération du code source pour en faire usage falsifié, ou moralement contestable. Un profitant des contours de définition flou d'un concept, un s'insérrant dans un espace juridique ouvert, et par le langage, Defend Europe artificialise un processus et s'installe dans une posture de domination, dans le cas présent une posture xénophobe et identitaire.
+
+Nous n'apprenons jamais le langage sans apprendre, en même temps, les conditions d'acceptabilité de ce langage. C'est à dire qu'apprendre ce langage, c'est apprendre quand il sera payant dans telle ou telle situation (Bourdieu, intervention au congrès l'AFEF, Limoges, 30 octobre 1977, paru dans "Le français aujourd'hui, 41 mars 1978, page 4-20 et supplément n°41, pp 51-57).
+
+Alors les risques de toxicités des Tiers-Lieux se rendent visible dans le fait que le Tiers-lieux est un acte politique et que par cet acte il est le champs de luttes sur des enjeux sociétaux.
 
 ## Tiers-Lieux : Espace-Temps de frictions
 
