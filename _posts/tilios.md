@@ -5,8 +5,20 @@ date: 2018-01-10
 categories: ["hsociety"]
 ---
 
-
 ## Tiers-Lieux et artificialité 
+
+Parcourant la rélfexion sur "[La toxicité des Tiers-lieux](http://movilab.org/index.php?title=R%C3%A9flexions_sur_la_toxicit%C3%A9_et_les_Tiers_Lieux)", par Yoann Duriaux, et le travail d'Arnaud Idelon, "[Tiers-lieu: enquête sur un objet encore bien flou](http://www.makery.info/2017/10/10/tiers-lieu-enquete-sur-un-objet-encore-bien-flou-12/), j'ai voulu approfondir l'existence ou la non existence de risques inhérents à "l'explosion" de l'usage de l'appelation tiers-lieu et à la tendance à la généralisation du paradigme d'un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux).
+
+Il s'agit de recherhcer une possible métabolisation des cultures Tiers-Lieux, au ingérées par la domination, une configuration sociale transformée en une substance autre dans un organisme vivant, ou non, au cours d'un processus de réactions identiifiables et définissables. Un pocessus ouvant mener à une artificialisation des Tiers-Lieux et des communautés de pratiques collaboratives.
+
+La naturalité, dans son sens environnemental, renvoie au caractère sauvage d'un paysage ou d'un milieu naturel. À l'opposé, un biotope très artificialisé peut présenter une biodiversité élevée, artificielle et de peu d'intérêt écologique, voire dangereuse pour l'environnement local (Exemple : arboretum, parc animaliers accueillant une grande diversité floristique et faunistique). Par exemple, la proximité de rejets d'effluents d'épuration ou d'eau chaude de centrales nucléaires peut permettre l'explosion de certains organismes, sans être un idéal de conservation).
+
+
+
+
+> Cette artificialité de la culture actuelle serait à l’origine du mouvement qui pousse chacun maintenant à aller ailleurs pour voir la « vraie vie des autres », pour vivre des expériences vraies. — (Marc Laplante, L’expérience touristique contemporaine: fondements sociaux et culturels, éditeur PUQ, 1996)
+
+dans un premier temps, le tiers-lieu sera appréhendé  comme un agencement institutionnel au travers des troisièmes lieux conceptualisées par [Ray Oldenburg](https://en.wikipedia.org/wiki/Ray_Oldenburg). Les troisièmes lieux seront distinguées des tiers-lieux et replacées dans leur contexte d’usage initial. Il sera démontré que les troisièmes lieux caractérisent en particulier des institutions à usages commerciales dont l’un des principaux attrait est de favoriser les relations de sociabilité entre individus. (Thése Dr antoine Burret, [https://tel.archives-ouvertes.fr/tel-01587759/document](https://tel.archives-ouvertes.fr/tel-01587759/document), pgae 8.)
 
 Question posée publiqument le 17 octobre 2017 après 3 ans de receuil de notes, d'interview et d'intérrogations.
 
@@ -32,6 +44,9 @@ Nisbett cite à ce propos les réactions à l'[expérience de Milgram](https://f
 > « Lorsque j’enseigne cette expérience aux étudiants de premier cycle, je suis sûr de n’avoir jamais convaincu un seul d’entre eux que leur meilleur ami aurait pu délivrer un tel choc électrique à ce gentil monsieur, et encore moins qu’eux mêmes auraient pu le faire. Leur armure de vertu les protège d’un comportement aussi terrible. Aucune explication sur le pouvoir de la situation unique dans laquelle le sujet de Milgram a été placé ne suffit à les convaincre que leur armure pourrait être ébréchée. »
 
 Nisbett a d’ailleurs écrit un livre sur les différences culturelles intitulé La géographie de la pensée : [The Geography of Thought: How Asians and Westerners Think Differently - and Why](http://scodedigital.com/6f/226630/6f69e4ae4942ec70fb2d824b59436c7f.html)
+
+>  «Un tiers-lieu ne se définit pas par ce que l’on en dit, mais par ce que l’on en fait…» (Le Manifeste des tiers-lieux)
+
 
 "En prenant la situation sous l’angle classique du type d’emploi et d’intégration, nous voyons que ce mode de vie généralisé se caractérise par un sentiment de « lutte quotidienne » permanent, diffus, de basse intensité, qui se cumule avec celui de « perdre sa vie à la gagner », générant une absence de sens. Le problème majeur pourrait être celui d’un salaire trop peu élevé, qui lui permettrait le cas échéant d’améliorer ses conditions de vie et de réduire son temps de travail afin de consacrer plus de temps à des activités personnelles plus épanouissantes, et donc de mieux se satisfaire de son emploi. Or, sans réfuter cette analyse dont les termes se fondent en dernière instance sur un meilleur partage du temps et des richesses, nous pensons que l’on peut aussi isoler deux autres facteurs clés majeurs." Habiter aux frontières de l’espace informel-illégal : le squat comme support à la déprise du précariat ?,Par Guillaume Six, Le sujet dans la cité, 2011/1 (n° 2), via [Cairn](https://www.cairn.info/revue-le-sujet-dans-la-cite-2011-1-page-227.htm?1=1&DocId=319683&hits=6304+6303+6301+6296+).
 
@@ -82,7 +97,7 @@ Une lettre ouverte de la communauté des technologies de l’information invite 
 
 ## Les choix ne sont pas une option
 
-Tiers-lieux libres de Open Source comme « [configuration](socialehttps://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html) »  activée par un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux) ou tiers-lieu réduit à sa simple spatialité de 4 murs et un toit à usage d'espace ouvert et partagé, il faudra choisir.
+Tiers-lieux libres de Open Source comme « [configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html) »  activée par un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux) ou tiers-lieu réduit à sa simple spatialité de 4 murs et un toit à usage d'espace ouvert et partagé, il faudra choisir.
 
 On ne cherche plus à savoir qui a les connaissances suffisantes pour mettre en œuvre telle procédure, mais qui a accès aux données dont l’analyse déterminera la stratégie de développement des activités. Alors que le « vieux » capitalisme organisait une concurrence entre moyens de production et maîtrise de l’offre, ce qui, dans une économie mondialisée n’a plus vraiment de sens, un nouveau capitalisme (dont nous verrons plus loin qu’il se nomme le capitalisme de surveillance) est né, et repose sur la production d’informations, la maîtrise des données et donc des processus.
 Et quand la production d'information est biaisée, tronquée, manipulée... ?
