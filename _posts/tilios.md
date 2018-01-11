@@ -245,3 +245,20 @@ C'est plus que léger
 Enfin concernant vos "PEC" et trucs hybrides, il y a bien plus sérieux qui pitch et fuck up nignt.
 Comme monnaie libre et gouvernance : https://t.co/AvL9ZaBvuY
 
+## Souvraineté technologique
+
+En plus d'un recourt à des mots forgés et protègés de ce fait, au moins relativement, contre les projections naïves de sens commun, en plus de constuire des définitions rigoureuses libres et duplicables et modifaibles selon des rêgles qui ne soient pas des concepts descriptifs, pour se prémunir d'une arificialisation les Tiers-libres et open source portent la responsabilite d'une souverainté technologique. Une souveraineté qui vient compléter le rôle du Tiers-Lieu et des communautés de pratiques dans la géographie de la création, dans l'entretien du paysage, de la transformation de la cité. c'est aussi cela ce que certaines et certaines nomment le jardinage d'un patrimoine informationnel commun.
+
+Nous méritons d'autres technologies, quelque chose de mieux que ce que nous appelons aujourd'hui les « Technologies de l'information et de la communication ». Ce livre revient sur les principes directeurs de la Souveraineté Technologique et propose un nouveau tour d'horizon théorique et pratique de quelques initiatives de développement de technologies libres. Il aborde les aspects sociaux, politiques, écologiques et économiques des technologies à travers des expériences visant à développer des formes de Souveraineté Technologique. Les auteur.e.s nous invitent à partager d'autres façons de les désirer, concevoir, produire et maintenir. Des expériences et initiatives pour développer la liberté, l'autonomie et la justice sociale tout en créant des systèmes autonomes de téléphonie mobile, des réseaux de traduction simultanée, des plateformes pour lancer des alertes, des outils numériques sûrs, des algorithmes souverains, des serveurs éthiques et des technologies appropriées. 
+
+Les textes sont d'Alex Hache, Benjamin Cadon, COATI, Caroline, Claudio Agosti, Elleflâne, Framasoft + AMIPO, Ippolita, Kali Kaneko, Loreto Bravo, Maxigas et Margarita Padilla. A noter que ce deuxième volume prolonge et complète le premier dossier sur la question lancé en 2014 qui nous parlait de logiciels, hardware et internet libres, de serveurs autonomes, réseaux sociaux décentralisés, bibliothèques publiques numériques et cryptomonnaies mais aussi des lieux où ces projets se mettaient en place, les hacklabs, fablabs et biolabs. 
+
+Ce premier volume inclut des textes rédigés par Richard Stallman, Patrice Riemens, Marcell Mars, Ippolita, Julie Gommes, Ursula Gastall, Benjamin Cadon, Thomas Fourmond, Paula Pin, Jorge Timon, Maxigas, Marta G Franco, Tatiana de la O, Hellekin et Spideralex. 
+
+Ces deux ouvrages ont été impulsés par *Ritimo* <www.ritimo.org>et leur coordination et édition ont été développés par Spideralex avec l'appui de *Calafou <www.calafou.org>.* Lecture en ligne et pdf: Le *volume 2 *est disponible en ligne et téléchargeable en pdf en français, anglais et espagnol : https://www.ritimo.org/La-Souverainete-Technologique-Volume2 
+
+Le *volume 1 *est également disponible en ligne et téléchargeable en pdf en français et en espagnol : https://www.ritimo.org/La-Souverainete-technologique Lecture en gitbook: Tous les textes, images et traductions du volume 1 et 2 se trouvent dans un repositoire gitbook mettant à disposition les livres en formats Mobi et eBooks: https://www.gitbook.com/@sobtec 
+
+Le *volume 2*est intégralement disponible en Francais: https://vrr.im/4109, Espagnol: https://vrr.im/6430et Anglais: https://vrr.im/5a89 
+
+Le *volume 1*y est intégralement disponible en Espagnol: https://vrr.im/881fet Italien: https://vrr.im/194f. Les traductions en francais, catalan et en anglais seront bientôt disponibles.
