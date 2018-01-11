@@ -10,14 +10,14 @@ categories: ["hsociety"]
 Parcourant la rélfexion sur "[La toxicité des Tiers-lieux](http://movilab.org/index.php?title=R%C3%A9flexions_sur_la_toxicit%C3%A9_et_les_Tiers_Lieux)", par Yoann Duriaux, et le travail d'Arnaud Idelon, "[Tiers-lieu: enquête sur un objet encore bien flou](http://www.makery.info/2017/10/10/tiers-lieu-enquete-sur-un-objet-encore-bien-flou-12/), j'ai voulu approfondir l'existence ou la non existence de risques inhérents à "l'explosion" de l'usage de l'appelation tiers-lieu et à la tendance à la généralisation du paradigme d'un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux).
 
 Le “X” de Tiers-Lieux est utilisé dans cet article pour signifier “libres et open source” afin de les distinguer franchement et avec probité de certains usages réutilisant une appelation sans intégrer un code source défini, et donc inutilisable en pratique.
-Visant ainsi que le Tiers-lieux ne parle strcitement des mêmes libertés que le logiciel libre. Mais ils utilisent une approche de la liberté qui est basée sur les mêmes principes philosophique :
+Visant ainsi que le Tiers-lieux ne parle pas, au sens strcite, des mêmes libertés que le logiciel libre, mais qu'ils utilisent une approche de la liberté qui est basée sur les mêmes principes philosophique :
 
 + symétrie des libertés : la garantie que personne n’est privilégié par la définition d’une liberté donnée sur un objet particulier (le logiciel, les ressources, la monnaie, le code social...)
 + non nuisance des libertés : la liberté ce n’est pas “pouvoir faire n’importe quoi”
 
 ## D'un processus social à la marche de domination
 
-Il s'agit de rechercher une possible métabolisation des cultures s'exprimant dans les Tiers-Lieux, soumise aux aléas d'être  ingérées par la domination ; une configuration sociale transformée en une substance autre dans un organisme vivant, au cours d'un processus de réactions identifiables et définissables. Un pocessus pouvant mener à une artificialisation des Tiers-Lieux et des communautés de pratiques collaboratives.
+Il s'agit de rechercher une possible métabolisation des cultures s'exprimant dans les Tiers-Lieux, soumises aux aléas d'être  ingérées par la domination ; une configuration sociale transformée en une substance autre dans un organisme vivant, au cours d'un processus de réactions identifiables et définissables. Un enchainement d'actions réactions pouvant mener à une artificialisation des Tiers-Lieux et des communautés de pratiques collaboratives.
 
 La naturalité, dans son sens environnemental, renvoie au caractère sauvage d'un paysage ou d'un milieu naturel. À l'opposé, un biotope très artificialisé peut présenter une biodiversité élevée, artificielle et de peu d'intérêt écologique, voire dangereuse pour l'environnement local (e.g : arboretum, parc animaliers accueillant une grande diversité floristique et faunistique). Par exemple, la proximité de rejets d'effluents d'épuration ou d'eau chaude de centrales nucléaires peut permettre l'explosion de certains organismes, sans être un idéal de conservation).
 
@@ -26,15 +26,15 @@ Dans le procesus social, l’histoire de l’Homme commence quelque part dans la
 Les 4 mécanismes d’homminisation (d'après [Peter Sloterdjik](https://fr.wikipedia.org/wiki/Peter_Sloterdijk))
 
 + Insulation (vouloir aller contre la pression de la sélection), volonté de s’isoler.
-+ La suspension des corps (se libérer de la contrainte de s’adapter corporellement à l’extérieur -> [Théotrème d’Alsberg](http://com2710.dedalon.net/S_01_files/Sloterdijk_La%20pierre.pdf)), Interprète le devenir-humain comme l’effet d’une hyper-insulation, dont l’effet central consistait à émanciper le pré-homme
++ La suspension des corps (se libérer de la contrainte de s’adapter corporellement à l’extérieur -> [Théotrème d’Alsberg](http://com2710.dedalon.net/S_01_files/Sloterdijk_La%20pierre.pdf)), le devenir-humain comme l’effet d’une hyper-insulation, dont l’effet central consistait à émanciper le pré-homme.
 + La néoténie (emporter des morceaux de son passé foetal et infantil), en biologie du développement, la conservation de caractéristiques juvéniles chez les adultes d'une espèce
 + La transposition (apprivoiser le "dewalt" -> hors avec les moyens du dedans), la reproduction d'une situation ou d'une condition dans un autre contexte sous une autre forme.
 
-Ainsi le Tiers-Lieux pourrait, par la volonté de entités individuées qui s'y rencontre, tendre vers une insulation à la fois par son processus de différentation par ses spécifités propres tout autant que par son désir de perdurer au sein d'une explosotion numéraire des Tiers-Lieux soumise selection.
+Ainsi le Tiers-Lieux pourrait, par la volonté de entités individuées ([Introduction de thése](https://tel.archives-ouvertes.fr/tel-01587759/document), Dr Antoine Burret) qui s'y rencontrent, tendre vers une insulation à la fois par son processus de différentation par ses spécifités propres, il n'y a de modèle de standard mais des Tiers-Lieux, tout autant que par son désir de perdurer au sein d'une explosotion numéraire soumise selection par la quantité critique des Tiers-Lieux. Une masse critique amenant à un phénomène de percolation (du latin percolare, « filtrer », « passer au travers »), le passage d'une fluide à travers un milieu plus ou moins perméable, la société.
 
 Le Tiers-Lieux est un bien commun révélé, délimité, entretenu par et avec un collectif, il cherche à s'émanciper dans une société qui tend à le contraindre à une normalisation prédéfinie avec des rêgles antérieures à son agencement.
 
-Le Tiers-Lieux embarquent avec lui des morceaux des cultures qui l'ont fait nâitre, des mémoires de luutes et de frictions qui ont amenées [les circonstances de rencontres](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours). 
+Le Tiers-Lieux embarquent avec lui des morceaux des cultures qui l'ont fait nâitre, des mémoires de luttes et de frictions qui ont amenées [les circonstances de rencontres](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours). 
 
 Le Tiers-Lieux cherche à faire et être hors des sentiers battus mais avec les moyens "du dedans", avec les moyens des sentiers battus.
 
@@ -44,7 +44,7 @@ Ainsi le Tiers-Lieux émerge comme un objet de curiosité, un objet d'étude, de
 
 > Cette artificialité de la culture actuelle serait à l’origine du mouvement qui pousse chacun maintenant à aller ailleurs pour voir la « vraie vie des autres », pour vivre des expériences vraies. — (Marc Laplante, L’expérience touristique contemporaine: fondements sociaux et culturels, éditeur PUQ, 1996)
 
-Si le tiers-lieu peut être appréhendé comme un agencement institutionnel au travers des troisièmes lieux conceptualisées par [Ray Oldenburg](https://en.wikipedia.org/wiki/Ray_Oldenburg). Les troisièmes lieux seront distinguées des Tiers-Lieux et replacées dans leur contexte d’usage initial. Il a été démontré que les troisièmes lieux caractérisent en particulier des institutions à usages commerciales dont l’un des principaux attrait est de favoriser les relations de sociabilité entre individus. ([Thése Dr antoine Burret](https://tel.archives-ouvertes.fr/tel-01587759/document), pgae 8.)
+" Si le tiers-lieu peut être appréhendé comme un agencement institutionnel au travers des troisièmes lieux conceptualisées par [Ray Oldenburg](https://en.wikipedia.org/wiki/Ray_Oldenburg). Les troisièmes lieux seront distinguées des Tiers-Lieux et replacées dans leur contexte d’usage initial. Il a été démontré que les troisièmes lieux caractérisent en particulier des institutions à usages commerciales dont l’un des principaux attrait est de favoriser les relations de sociabilité entre individus." ([Thése Dr antoine Burret](https://tel.archives-ouvertes.fr/tel-01587759/document), page8.)
 
 Le Tiers-Lieux peut s'articuler ou se concevoir autour d'un objet social et de bénéfices publics. Alors à quelles questions sociétales les Tiers-Lieux tentent-ils de répondre ? Si elles sont probablèment nombreuses (écologie, égalité sociale, libertés, immédiateté de l'urgence...), j'ai commencé à référencer et étudier quelques actions remarquables afin d'en comprendre les mécanismes de transposition (du Tiers-Lieux vers l'extérieur) :
 
@@ -109,7 +109,7 @@ En 2012, à Rennes - Bretagne - Le maire de la ville tire une sonnette d'alarme 
 
 La [Charte de l'Hôtel Pasteur](http://www.hotelpasteur.fr/6-charte-de-l-hotel-a-projets.html) met l'accent sur l'hybridation et la capacité à acceuillir l'immédiateté des besions. Ce lieu n'existe que par la clé de la confiance ([Sophie Ricard, refaire confiance](https://soundcloud.com/sylviafredriksson/sophie-ricard-confiance)).
 
-L'Hôtel Pasteur ne fait pas "communautés" parce que des personnes travaillent sur le même sujet mais car il apparait qu'un "nous" existe dans la nécessité d'une réalisation qui semble essentielle à faire ensemble dans un communauté mouvante qui s'affranchi des obligations (Sophie Ricard, [Commun](https://soundcloud.com/sylviafredriksson/sophie-ricard-communs))
+L'Hôtel Pasteur ne fait pas "communauté" parce que des personnes travaillent sur le même sujet mais car il apparait qu'un "nous" existe dans la nécessité d'une réalisation qui semble essentielle à faire ensemble dans des communautés mouvantes qui s'affranchissent des obligations (Sophie Ricard, [Commun](https://soundcloud.com/sylviafredriksson/sophie-ricard-communs)).
 
 "L’individu comme les territoires qu’il habite ou explore n’est pas unidimensionnel, c’est un millefeuille regroupant plusieurs couches de l’expérience: la pratique (espace social), la sensation (espace esthétique), la recherche (espace réflexif). Dans son parcours de vie et son parcours géographique, dans certains moments ou certains endroits, des couches passeront les unes devant 
 les autres". (LISRA, Laboratoire d’Innovation Sociale par la Recherche-Action , [Culture et Territoire](http://recherche-action.fr/labo-social/download/LISRA/Culture-territoire-Journe-Interstice_2juil09.pdf), 2009).
@@ -122,12 +122,11 @@ La configuration sociale particulière du Tiers-Lieux offre un espace-temps de r
 
 L'idée de produire un espace-temps autonome arraché aux lois du marché est une utopie dangereuse aussi longtemps que l'on ne pose pas la question simultanément des conditions de possibilités politiques de la généralisation de cette utopie (Bourdieu, Questions de sociologie, éditions de minuit, 1980, page 106).
 
-Les coworking ne sont pas si différent des usines à rêves et spectacles de Jacques Tati, ou des fabriques à verre de St Gobain des années 1960.
+Les coworking ne sont pas si différent des [usines à rêves et spectacles](https://fr.wikipedia.org/wiki/L%27Id%C3%A9al_Cin%C3%A9ma-Jacques_Tati) de Jacques Tati, ou des fabriques à verre de St Gobain des années 1960.
 
 ![](https://framapic.org/jH4gfMCl1kkv/akWoV9ZiCu3r "préparation de plaques photographiques en verre chez Verrerie d'en Haut(Saint-Gobain depuis 1960) à Aniche")
 
-Le tiers-lieu vidé de son essence, de son langage est un vendeur de rêves aux mêmes processus qu'une banque spéculative. Les rêves sont les productions des individus donc vous les vendre sans vous avoir même payé pour vous en déposseder c'est pas très très bien.
-
+Le tiers-lieu vidé de son essence, de son [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux), de son langage est un vendeur de rêves aux mêmes processus qu'une banque spéculative. Les rêves sont les productions des individus donc leurs les vendre sans vous avoir même payé pour les en déposseder relève d'une absence de moralité. Le tiers-lieu sans processus singulier est un Starbuck café défini uniquement par ses 4 ùurs et son toit, et sa franchise commerciale.
 ![](https://framapic.org/mde5tNgS6WMv/KFLLUC3ZM2cU)
 
 Les Digital trucs sauce ketchup sont des arnaques au même titre que GAFAM (ils ne produisent rien, vous esbroufent avec du divertissement et du collaboratif que ça profitent qu'à eux en vendant votre intimité au plus offrant tout en captant les moyens financiers destinés à soutenir Innovation et transition)
@@ -137,7 +136,7 @@ Allons y, demain nous ferons une note de communication "d'étude" sur les Tiers-
 
 ## Tiers-Lieux et le pouvoir du langage
 
-Dense comme 3 abstracts de publication scientifique mais tout autant intéressant que fourni en ressources utiles et réflexions, "Les tiers-lieux et le territoire -La géographie de la création " de Raphaël Suire, Professor in Innovation Management, University of Nantes.
+Dense comme 3 abstracts de publication scientifique mais tout autant intéressant que fourni en ressources utiles et réflexions, "Les tiers-lieux et le territoire -La géographie de la création " de Raphaël Suire, Professor in Innovation Management, University of Nantes. d'un "[3ème langage](https://tel.archives-ouvertes.fr/tel-01587759/document)"
 
 > " L’engouement autour des tiers-lieux provient de la volonté de quelques-uns d’organiser les flux et de réduire l’incertitude du qui est le voisin et de ce qu’il sait faire ou souhaite faire a priori. Pour cela, les tiers-lieux qui, souvent vont s’auto-proclamer comme tels, vont se doter d’objectifs ou de règles de fonctionnement et d’accès qui vont réduire l’incertitude des flux entrants. L’accès peut être payant ou gratuit, on peut être simplement et temporairement hébergé, on peut bénéficier d’accompagnement, on peut se former, on peut fabriquer, explorer ou prototyper, en un mot, bricoler, pour reprendre Levi-Strauss (1962). Pour autant, ce n’est pas parceque l’on réduit l’incertitude à l’entrée que l’on maitrise le flux sortant. Dans la pensée sauvage, Levi-Strauss fait cette distinction essentielle entre l’ingénieur et le bricoleur, entre une science du concret et une science plus abstraite. "
 
