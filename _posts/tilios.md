@@ -136,13 +136,13 @@ Nous voyons aujourd'hui "des tentatives" de vulgatisation ou d'explication sur l
 
 ## Tiers-Lieux et le pouvoir du langage
 
-Dense comme 3 abstracts de publication scientifique mais tout autant intéressant que fourni en ressources utiles et réflexions, "Les tiers-lieux et le territoire -La géographie de la création " de Raphaël Suire, Professor in Innovation Management, University of Nantes. d'un "[3ème langage](https://tel.archives-ouvertes.fr/tel-01587759/document)"
+La possible tendance du Tiers-lieux à l'insulation ne fait de cet espace-temps, et de ces communautés de pratiques, un objet hermétique à l'ensemble de la société. Il y a un engouement pour le Tiers-Lieux et un phénomène "de règles internes mais également des méta-règles entre l’organisation tiers-lieu et le reste de l’éco-système".
+
+Un article fortement documenté et fourni en ressources utiles et réflexions, "[Les tiers-lieux et le territoire -La géographie de la création](https://medium.com/@pareto35/les-tiers-lieux-et-le-territoire-b2ec5c093c81)" de Raphaël Suire, Professor in Innovation Management, University of Nantes, apporte un regard pragmatique sur les flux, informations et langages en font parties intégrante, qui peuvent traverser un tiers-lieu ou un Tiers-Lieux. Dans une approche géographique qui ouvre une possibilité de comprehension du vocable qui advient dans le Tiers-Lieux dans sa perception au titre de plateforme d’intermédiation.
 
 > " L’engouement autour des tiers-lieux provient de la volonté de quelques-uns d’organiser les flux et de réduire l’incertitude du qui est le voisin et de ce qu’il sait faire ou souhaite faire a priori. Pour cela, les tiers-lieux qui, souvent vont s’auto-proclamer comme tels, vont se doter d’objectifs ou de règles de fonctionnement et d’accès qui vont réduire l’incertitude des flux entrants. L’accès peut être payant ou gratuit, on peut être simplement et temporairement hébergé, on peut bénéficier d’accompagnement, on peut se former, on peut fabriquer, explorer ou prototyper, en un mot, bricoler, pour reprendre Levi-Strauss (1962). Pour autant, ce n’est pas parceque l’on réduit l’incertitude à l’entrée que l’on maitrise le flux sortant. Dans la pensée sauvage, Levi-Strauss fait cette distinction essentielle entre l’ingénieur et le bricoleur, entre une science du concret et une science plus abstraite. "
 
-"Smart" le nouveau concept de liberté ou d'enfermement ? SmartCity, Smartphone, Smartpantoufles, nouvelles dictatures consenties ? Artificialisation de ce qui fait de nous une humanité ? ([Resterons nous créatifs demain ? avec Alain Damasio & Ariel Kyrou](https://www.youtube.com/watch?v=k2uk43FMTF8&feature=youtu.be))
-
-"[3ème langage](https://tel.archives-ouvertes.fr/tel-01587759/document)", comme y postule Dr Antoine Burret dans sa thèse "Etude de la configuration en Tiers-Lieu :  la repolitisation par le service". De la capacité des participant.e.s à auto-entretenir cette émergence dépend l'atteinte des objectifs visés.
+Le Tiers-Lieux produit en réponse à "[3ème langage](https://tel.archives-ouvertes.fr/tel-01587759/document)", comme y postule Dr Antoine Burret dans sa thèse "Etude de la configuration en Tiers-Lieu :  la repolitisation par le service". De la capacité des participant.e.s à auto-entretenir cette émergence dépend l'atteinte des objectifs visés.
 
 > « I shall describe the langage learner’s third place as a place that preserves the diversity of styles, purposes, and
 interest among learners and the variety of the local educational cultures » _Voir Claire Kramsch, (1993), « Context and Culture in Language Teaching », Oxford, éd. OUP Oxford, coll. Oxford Applied Linguistics p. 247._
@@ -203,30 +203,32 @@ Une lettre ouverte de la communauté des technologies de l’information invite 
 
 Tiers-lieux libres de Open Source comme « [configuration sociale](https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html) »  activée par un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux) ou tiers-lieu réduit à sa simple spatialité de 4 murs et un toit à usage d'espace ouvert et partagé, il faudra choisir.
 
-On ne cherche plus à savoir qui a les connaissances suffisantes pour mettre en œuvre telle procédure, mais qui a accès aux données dont l’analyse déterminera la stratégie de développement des activités. Alors que le « vieux » capitalisme organisait une concurrence entre moyens de production et maîtrise de l’offre, ce qui, dans une économie mondialisée n’a plus vraiment de sens, un nouveau capitalisme (dont nous verrons plus loin qu’il se nomme le capitalisme de surveillance) est né, et repose sur la production d’informations, la maîtrise des données et donc des processus.
-Et quand la production d'information est biaisée, tronquée, manipulée... ?
-[Shoshana Zuboff](https://en.m.wikipedia.org/wiki/Shoshana_Zuboff) a identifié dans la transformation des systèmes de production : l’informationnalisation (informating). dans un livre très visionnaire, In the Age Of The Smart Machine en 1988, elle décrit
-les mécanismes du capitalisme productiviste du XXe siècle ont connu plusieurs mouvements, plus ou moins concomitants selon les secteurs : la mécanisation, la rationalisation des tâches, l’automatisation des processus et l’informationnalisation.
+L'entreprise, l'organisation, l'institution, dans sa configuration acteulle, ne cherche plus à savoir qui a les connaissances suffisantes pour mettre en œuvre telle procédure, mais qui a accès aux données dont l’analyse déterminera la stratégie de développement des activités. 
+Alors que le « vieux » capitalisme organisait une concurrence entre moyens de production et maîtrise de l’offre ([Wikipedia](https://fr.wikipedia.org/wiki/Capitalisme#Selon_les_Mod%C3%A8les_formels_de_repr%C3%A9sentation)), ce qui, dans une économie mondialisée n’a plus vraiment de sens, un nouveau capitalisme est né, absé sur une [économie de la surveillance](https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_surveillance) et une [économie de l'attention](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention) (, et repose sur la production d’informations, la maîtrise des données et donc des processus.
+Et quand la production d'information est biaisée, tronquée, manipulée... ? (Thése, 
+[La liberté par l'information : généalogie politique du libéralisme informationnel et des formes de l'auto-organisation sur internet](http://www.theses.fr/2012EHES0002), par Benjamin Loveluck, 2012,à Paris, EHESS).
+[Shoshana Zuboff](https://en.m.wikipedia.org/wiki/Shoshana_Zuboff) a identifié dans la transformation des systèmes de production : l’informationnalisation ([informating](https://en.wikipedia.org/wiki/Informating)) dans In the Age Of The Smart Machine, 1988, elle décrit comment les mécanismes du capitalisme productiviste du XXe siècle ont connu plusieurs mouvements, plus ou moins concomitants selon les secteurs, dans cet ordre : la mécanisation, la rationalisation des tâches, l’automatisation des processus et l’informationnalisation.
 
-Tiers-lieu IS the New smart.
+Dans L'informationnalisation, "Smart" est le nouveau concept de liberté ou d'enfermement ? SmartCity, Smartphone, Smartpantoufles, nouvelles dictatures consenties ? Artificialisation de ce qui fait de nous une humanité ? ([Resterons nous créatifs demain ? avec Alain Damasio & Ariel Kyrou](https://www.youtube.com/watch?v=k2uk43FMTF8&feature=youtu.be)).
+
+Tiers-lieu IS the New smart. ([specific and measurable, attainable, relevant and time-bound](https://en.wikipedia.org/wiki/SMART_criteria)).Le terme «intelligent» est une tentative de récupérer de la «croissance» contre «pas de croissance» (ou NIMBY) en l'orientant sémantiquement sur une croissance bonne / intelligente par rapport à la croissance mauvaise / muette. C'est une orientation de consommation de pattern et d'énergie sans prise en compte de l'intelligence effective ([Is 'Dumb' the New 'Smart'?](http://ieeexplore.ieee.org/document/6985953/keywords) by [Peter Cocoran](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Peter%20Corcoran.QT.&newsearch=true)).
 
 ## Les erreurs et approximations
 
-En résistance à ce "new Smart", La résistance, selon une définition première, signifie « s’opposer à une action ou à une force ».
-D’une manière générale, il s'agit d'une « aptitude à survivre » dans un contexte d'agression. Aujourd'hui, cette agression est diffuse, nous souffrons moins d'une remise en cause fondamentale et manifeste de la citoyenneté ou des libertés que d'un conservatisme ambiant qui s'immisce dans les rangs du secteur culturel. A la notion de résistance, piégeuse sur ses versants réactifs et oppositionnels,   nous   préférons   celle   de   créativité   du   mouvement,   davantage   proactive   et
-propositionnelle. Prendre l’initiative, déplacer un équilibre dans l’espace, se positionner en décalage par rapport aux
-postures convenues, déplier sa créativité sont autant de formes de mobilité qui provoquent inévitablement un changement de situation. Le mouvement englobe plusieurs types de mobilité, comme   la   mobilité   spatiale   et   physique   (voyage,   itinérance,   découvertes,   déploiement   des paysages) et la mobilité mentale (créativité, travail de la culture,transformation sociale).
+Ne pas céder la tentation de à ce "new Smart" et des abus de langage ou [novlangue](https://fr.wikipedia.org/wiki/Novlangue), la résistance, selon une définition première, signifie « s’opposer à une action ou à une force ». D’une manière générale, il s'agit d'une « aptitude à survivre » dans un contexte d'agression. Aujourd'hui, cette agression est diffuse, Les Tiers6lieux souffrent moins d'une remise en cause fondamentale et manifeste de leur état et de leur production que l'usage d'un langage, souvent commercial, qui ne correspond pas à la réalité effective. A la notion de résistance, piégeuse sur ses versants réactifs et oppositionnels, préférons celle de créativité du mouvement, davantage proactive et propositionnelle. Prendre l’initiative, déplacer un équilibre dans l’espace, se positionner en décalage par rapport aux postures convenues, déplier sa créativité sont autant de formes de mobilité qui provoquent inévitablement un changement de situation. Le mouvement englobe plusieurs types de mobilité, comme  a mobilité spatiale et physique (voyage,   itinérance, découvertes, déploiement des paysages) etla mobilité mentale (créativité, travail de la culture,transformation sociale). 
+
+Dans cette résistance que le Tiers-Lieux est, il adveint parfois des approximations, des incompréhensions ou des erreurs de défintions et de langage.
 
 ### Par la Presse
 
 [OxaMYNE ou “l’entrepreneuriat coopératif”](https://medium.com/@rieult/oxamyne-ou-lentrepreneuriat-coop%C3%A9ratif-9cd20e177fd7)
-En réponse et clarification à la publication de l’article paru dans Makery “A Lyon, la Myne expérimente l’entrepreneuriat coopératif”
+En réponse et clarification à la publication de l’article paru dans Makery “A Lyon, la Myne expérimente l’entrepreneuriat coopératif”, ou le problème de taiter une idée avec superficialité et d'user de mots non-définis dansle but de renforcer l'attractivité d'une publication (tentation du [clickbait](https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics)).
 
-> En bref: le vocabulaire et l’approche de cet article, résoluement “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur.
+> "En bref: le vocabulaire et l’approche de cet article, résoluement “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur." Rieul Techer
 
-### Par des groupes de recherche
+### Par un groupe de "recherche"
 
-_Notes àl'état de vrac pour analyse et critique scientifique-
+_Notes à l'état de vrac pour analyse et critique scientifique-
 
 Par le cas d'étude d'une note du #RGCS "[Tiers-lieux et espaces collaboratifs : laboratoires et révélateurs des nouvelles pratiques de travail](https://collaborativespacesstudy.files.wordpress.com/2016/10/note2_rgcs_2017_version-finale.pdf)" 
 
