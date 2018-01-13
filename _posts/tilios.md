@@ -17,6 +17,16 @@ Visant ainsi que le Tiers-lieux ne parle pas, au sens strcite, des mêmes libert
 + symétrie des libertés : la garantie que personne n’est privilégié par la définition d’une liberté donnée sur un objet particulier (le logiciel, les ressources, la monnaie, le code social...)
 + non nuisance des libertés : la liberté ce n’est pas “pouvoir faire n’importe quoi”
 
+Cet article vie à appliquer des tentatives d'analyses sur un objet notamment défini par la thése d'Antoine Burret, "[Etude de la configuration en Tiers-Lieu : la repolitisation par le service](https://tel.archives-ouvertes.fr/tel-01587759)", Sociologie ; un objet qui comporte des pratiques définies dans la  thèse en esthétique et sciences de l'art "[La fabrication numérique personnelle, pratiques et discours d’un design diffus : enquête au coeur des FabLabs, hackerspaces et makerspaces de 2012 à 2015](http://www.theses.fr/2016REN20009) par Camille Bosqué. Il sintègre dans un examen approfondi de ma propre démarche an qualité de co-porteur de l'intiative du [Biome HackLab](https://lebiome.github.io), parmi d'autres actions. 
+
+Cet article n'est pas formaté selon les codes standards d'une publication scientifique car les notes de bas page sotn remplacées par des hyperliens intégrés directement dans le texte (source, publications, interviews...) et des citations contextualisées et créditées.
+
+Il s'intègre également dans le processus d'archives d'une [bibliothèque numérique](https://lebiome.github.io/#LeBiome/library) du Biome Hacklab et fait suite à des collaborations immersives et productives telles que [Bretagne Lab Tour 2015](https://xavcc.gitbooks.io/vivre-ensemble-faire-ensemble/content/), "Vivre ensemble, Faire ensemble, Le tour de France 2016, [LabOSE](https://paper.dropbox.com/doc/LabOSe-Laboratoire-open-source-dexperiences-libres-et-distribuees-KwBdA6CpH17tiqPcCgmfW), Laboratoire open source d’expériences libres et distribuées, aisni que, dans une plus modeste mesure, l'Expérience [Fork The World](https://nicolasloubet.gitbooks.io/fork-the-world/content) menée lors de la Biennale Internationnale du Design de St Étienne en 2017.
+
+Cet article est basée sur une plateforme d'édition collaborative, sous licence libre, j'invite ainsi toute personne intéressé par l'amélioration continue de cette tentative de recherche et formalisation d'étude introspective à ouvrir une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues) titrée "Tilios #numérodelaliste `Nom de l'action proposée`" et décrite avec précision, justification et lien intégré vers les ressources le cas échéant.
+
+
+
 ## D'un processus social à la marche de domination
 
 Il s'agit de rechercher une possible métabolisation des cultures s'exprimant dans les Tiers-Lieux, soumises aux aléas d'être  ingérées par la domination ; une configuration sociale transformée en une substance autre dans un organisme vivant, au cours d'un processus de réactions identifiables et définissables. Un enchainement d'actions réactions pouvant mener à une artificialisation des Tiers-Lieux et des communautés de pratiques collaboratives.
