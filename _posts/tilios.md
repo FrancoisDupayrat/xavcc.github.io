@@ -245,6 +245,23 @@ En réponse et clarification à la publication de l’article paru dans Makery �
 
 > "En bref: le vocabulaire et l’approche de cet article, résoluement “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur." Rieul Techer
 
+La revue en-ligne Makery fournira par la suite un effort plus poussé en offrant la possibilité à Arnaud Idelon, "[Tiers-lieu: enquête sur un objet encore bien flou](http://www.makery.info/2017/10/10/tiers-lieu-enquete-sur-un-objet-encore-bien-flou-12/)" de rédiger un travail plus poussé sur les questions que pausent les Tiers-Lieux.
+
+[Usbek & Rica](), se revendicant média qui explore le futur, commet également des erreurs d'utilisation de l'appelation tiers-lieu et de description dans son regard sut (The Camp)[https://usbeketrica.com/article/thecamp-le-camp-de-base-pour-explorer-le-futur], un nouveau campus 'innovation à Aix-en-Provence.
+
+> "Un des objectifs majeurs de ce tiers-lieu est de favoriser le rapprochement des entreprises et des Millennials : « C’est le rôle du programme Grands Challenges, qui vise à aider les leaders des groupes partenaires à résoudre leurs enjeux environnementaux et sociétaux », explique Marina Vassalo Rachline"
+
+> "Une cinquantaine de jeunes talents, choisis parmi des collectifs et associations comme OuiShare, Cog’Innov, MakeSense, La Paillasse et Seconde Nature, échangeront quotidiennement pendant deux heures avec dix cadres et employés d’entreprises partenaires, durant des séquences de 5 ou 10 jours."
+
+Les deux extrait de ce média révèlent un traitement superficiel del'objet tiers-lieu, bien qu'effectivement il ne s'agisse pas du Tiers-Lieux libre et open source. Mais ce qui apparaît plus dommageable et alimente le risque d'articialisation est l'amalgame Makesense, OuiShare... avec le pocessus tiers-lieu, l'innovation et les sciences.
+
+France Info, tombe également dans une erreur d'appréciation, qui pourrait être prise comme une carricature avec des sources , des chiffres et des tentatives d'explications du tiers-lieu plus que contestables.
+
+> "L'impressionnante montée des tiers-lieux, ces nouveaux espaces de travail.
+C'est un mouvement spectaculaire dans le monde du travail : partout s'ouvrent des espaces de coworking, des centres d'affaires, des télécentres" [Lire et écouter Philippe Duport, Radio France](https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/l-impressionnante-montee-des-tiers-lieux-ces-nouveaux-espaces-de-travail_1786059.html)
+
+Si la presse, parfois spécialisée, se fourvoie dans la compréhension puis la médiatisation du Tiers-Lieux, c'est peut être qu'il y a des facteurs d'influence sur cette dérive sémantique et didactique.
+
 ### Par un groupe de "recherche"
 
 _Notes à l'état de vrac pour analyse et critique scientifique-
