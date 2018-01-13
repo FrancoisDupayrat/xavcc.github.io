@@ -99,7 +99,7 @@ il y a chez Defend Europe, avec un langage et un vocabulaire éprouvé emprunté
 
 Nous n'apprenons jamais le langage sans apprendre, en même temps, les conditions d'acceptabilité de ce langage. C'est à dire qu'apprendre ce langage, c'est apprendre quand il sera payant dans telle ou telle situation (Bourdieu, intervention au congrès l'AFEF, Limoges, 30 octobre 1977, paru dans "Le français aujourd'hui, 41 mars 1978, page 4-20 et supplément n°41, pp 51-57).
 
-Alors les risques de toxicités des Tiers-Lieux se rendent visibles dans le fait que le Tiers-lieux est un acte politique et que par cet acte il est le champs de luttes sur des enjeux sociétaux.
+Alors les risques de toxicités des Tiers-Lieux se rendent visibles dans le fait que le Tiers-lieux est un acte politique et que par cet acte il est le champs de luttes sur des enjeux sociétaux. Dans cette lutte des opportunités sont offertes à des processus malveillants de profiter des particularités du Tiers-Lieux.
 
 ## Tiers-Lieux : Espace-Temps de frictions
 
