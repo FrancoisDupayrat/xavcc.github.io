@@ -9,6 +9,8 @@ categories: ["hsociety"]
 
 Parcourant la rélfexion sur "[La toxicité des Tiers-lieux](http://movilab.org/index.php?title=R%C3%A9flexions_sur_la_toxicit%C3%A9_et_les_Tiers_Lieux)", par Yoann Duriaux, et le travail d'Arnaud Idelon, "[Tiers-lieu: enquête sur un objet encore bien flou](http://www.makery.info/2017/10/10/tiers-lieu-enquete-sur-un-objet-encore-bien-flou-12/), j'ai voulu approfondir l'existence ou la non existence de risques inhérents à "l'explosion" de l'usage de l'appelation tiers-lieu et à la tendance à la généralisation du paradigme d'un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux).
 
+![](https://farm5.staticflickr.com/4174/34533605945_d0f5b27901_c.jpg "Photo credit: classic_film | CC BY-NC")
+
 Le “X” de Tiers-Lieux est utilisé dans cet article pour signifier “libres et open source” afin de les distinguer franchement et avec probité de certains usages réutilisant une appelation sans intégrer un code source défini, et donc inutilisable en pratique.
 Visant ainsi que le Tiers-lieux ne parle pas, au sens strcite, des mêmes libertés que le logiciel libre, mais qu'ils utilisent une approche de la liberté qui est basée sur les mêmes principes philosophique :
 
