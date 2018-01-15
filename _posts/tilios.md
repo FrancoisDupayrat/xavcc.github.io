@@ -42,7 +42,7 @@ Les 4 mécanismes d’homminisation (d'après [Peter Sloterdjik](https://fr.wiki
 + La néoténie (emporter des morceaux de son passé foetal et infantil), en biologie du développement, la conservation de caractéristiques juvéniles chez les adultes d'une espèce.
 + La transposition (apprivoiser le "dewalt" -> hors avec les moyens du dedans), la reproduction d'une situation ou d'une condition dans un autre contexte sous une autre forme.
 
-Ainsi le Tiers-Lieux pourrait, par la volonté de entités individuées ([Introduction de thése](https://tel.archives-ouvertes.fr/tel-01587759/document), Dr Antoine Burret) qui s'y rencontrent, tendre vers une insulation à la fois par son processus de différentation par ses spécifités propres, il n'y a de modèle de standard mais des Tiers-Lieux, tout autant que par son désir de perdurer au sein d'une explosotion numéraire soumise selection par la quantité critique des Tiers-Lieux. Une masse critique amenant à un phénomène de percolation (du latin percolare, « filtrer », « passer au travers »), le passage d'une fluide à travers un milieu plus ou moins perméable, la société.
+Ainsi, par la volonté de entités individuées ([Introduction de thése](https://tel.archives-ouvertes.fr/tel-01587759/document), Dr Antoine Burret) qui s'y rencontrent, le Tiers-Lieux pourrait tendre vers une insulation à la fois par son processus de différentation par ses spécifités propres et uniques, il n'y a pas de modèle de standard de tiers-lieu mais des Tiers-Lieux, tout autant que par son désir de perdurer au sein d'une explosion numéraire soumise à la selection par la quantité critique des Tiers-Lieux. Une masse critique amenant à un phénomène de percolation (du latin percolare, « filtrer », « passer au travers »), le passage d'une fluide à travers un milieu plus ou moins perméable, la société.
 
 Le Tiers-Lieux est un bien commun révélé, délimité, entretenu par et avec un collectif, il cherche à s'émanciper dans une société qui tend à le contraindre à une normalisation prédéfinie avec des rêgles antérieures à son agencement.
 
@@ -264,24 +264,33 @@ Si la presse, parfois spécialisée, se fourvoie dans la compréhension puis la 
 
 ### Par un groupe de "recherche"
 
-_Notes à l'état de vrac pour analyse et critique scientifique-
+Dans les origines de cette dérive nous pouvons observer une note de recher d'un groupe de travail. Le RGCS, Research Group Collaborative Spaces, dans une note de 32 page titrée "TIERS-LIEUX & ESPACES COLLABORATIFS: LABORATOIRES ET REVELATEURS DES NOUVELLES PRATIQUES DE TRAVAIL", commets plusienrs erreurs qui illustrent le glissment sématnique et l'approche biaisée du Tiers-Lieux.
 
 Par le cas d'étude d'une note du #RGCS "[Tiers-lieux et espaces collaboratifs : laboratoires et révélateurs des nouvelles pratiques de travail](https://collaborativespacesstudy.files.wordpress.com/2016/10/note2_rgcs_2017_version-finale.pdf)" 
 
-cette publication RGCS
-Donc l'avis du conseille scientifique présidé par Dominique Bourg (https://t.co/1lGHSXUYPb) sur movilab (https://t.co/2jKrBfnT3D) valide du storyltelling selon vous ? : https://t.co/CIVGp2SyE6
+Dès le début de résumé l'accent est pourtant posé sur "« guerre des mots » (qui est aussi une guerre d’antéri
+orité et de territoire) qui a cependant des effets bien réels". Il y a donc volonté une volonté de d'observer et comprendre le 3ème langage. 3Un lieu ou un espace se «possède», s’«investit». A cette cartographiede la possession», nous opposons une «cartographie de la pratique»". Une approche spatio-temporelle qui correspond à la configuration du Tiers-Lieux comme objet d'étude et propsose ici une cartographie de la pratiques intéresssante.
 
-"tout en revendiquant l’appartenance voire la paternité de ces espaces à l’instar des « cantines numériques », premières formes d’expression du tiers-lieu en France" #Oups le hackersapce les tanneries c'est 1998 (https://t.co/6P4ocvkrj0) et Elaboratoire 1997
+On pourra noté la présnce de "clos clés insérés dans le bas-page qui dès la page 3 isncrit "coworkers, hackers, makers, fablab" comme une même famille.
 
- Par hasard, les travaux sur les circonstances de rencnontres qui permettent le processus tiers-lieux (Thése Dr Burret) https://t.co/kKyV3Oe7ad
-"Cela va du cas des slashers" comme vous écrivez ?
+Le concept de teirs-lieu proposé par Oldenburg est rpsi comme postulat de départ et il mis en perspective d'évoltion avec une CARTOGRAPHIE BETA DES « ESPACES HYBRIDES», par PRIMA TERRA? C'ett carte fut d'ailleurs présenté et exposée lors de la Biennale interantionale du Design de St Étienne en 2017.
 
- Et baser vos tentatives de mesure d’occurrences de vocable sur google trends... uniquement
-C'est plus que léger
-(Grosse methode scientifique et outils de travail là)
+Puis dans le priier chapitred e cette note,le RGCS propose uné étude de la demande vocable  sur les tiers6lieux et les pratiques associées. L'utilisation de google Tren comme outils d'analyse du nombre ou de la fréquence d'occurence de mots est un problème. Google trend n'est pas un outil d'analyse scientifique, c'est un outil d'analyse d'une entreprise privée qui n'a pas obligation d'éthique et de transparence. Google trend analyse les mots référencés par le moteur de recherche google, autre produite de la même entreprise, google n'est pas internet ! Google trand n'analyse pas internet.  Il en fait de même par le RGCS avec de mouveuax clé censés, selon eux, representer les pratiques qui ont cours dans les tiers-lieux, sans proposé un rigueur en tre "Pitch night " et "hackers" alors que ces mots sont issues de culture diférents voir souvent opposées.
+L'usage de google trend n'est non plus mis en comparaison avec les resultas obtenus avec d'autres outils et ailleurs dans internet.
 
-Enfin concernant vos "PEC" et trucs hybrides, il y a bien plus sérieux qui pitch et fuck up nignt.
-Comme monnaie libre et gouvernance : https://t.co/AvL9ZaBvuY
+De plus, cette proposition d'analyses ne prend aucunement en compte les usages très fréent par les tiers-lieux de chat, IRC, ssh,  liste de discussions... Les archives de "[nettimes](https://nettime.org/archives.php) auraient permis de mieux cerner l'objet d'étude au RGCS et surtout donnerai de la réalité à la tentative de mesure d'ocurence de mots. Cette étude de l'offre de vocables est basée sur une erreur de données et pulsieurs amalgames de mots Jusqu-à la page 21 et l'affirmation des écantines nuùmérique" comme premiè-re forme des tiers-lieux. Ce concept de Cantine numérique est un concept iportée de la silicone Valley en France deans les énnes 2000. Le hackersapce les tanneries, à Dijon, est [fondé en 1998](https://tanneries.squat.net/documents/Tanneries_-_4_pages-200506.txt) et l'Élaboratoire en 1977 à Rennes. L'ogine du Tiers-Lieux en France n'est ni là dans le temps, ni n'est dans la forme, celle que propose le RGCS dans son postulat de Recherche;
+
+Après d'autres approxiamtions, le RGCS qualifié "movilab", un wiki sur les Tiers-Lieux, de "Storytelling", un anglicisme pour porposer d'interpreter l'[avis du conseille scientifique](http://movilab.org/index.php?title=Fichier:Avis_CS_final_Movilab.pdf) ,sur ce wikie, présidé par [Dominique Bourg](https://fr.wikipedia.org/wiki/Dominique_Bourg) comme des contes, des récits.
+
+Autre exemple à relver, permi d'autres, l'utilisation d'un nouvel anglicisme récent, "[Slasheur](http://slasheurs.fr/)", pour désigner un posture d'une pseronne, voir même son habitus. Plutôt de travailler, par exemple, les [conditions et processus de rencontres](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours) dans le tiers-lieux,le groupe de travail mais ne point d'articulation du processus tiers-lieux des personnes qui se dénomment par elles-mêmes par une "marque de mode" très récente dans le temps, un appelation sans définition travaillée et étudiée.
+ 
+Nous retouvons tout au long de cette notes des prêts d'usages de vocable aux tiers-lieux qui sont des mots nouveaux, des anglicismes, et des pratiques qui ne sont pas générales dans les tiers-lieux, voir ne sont pas utilisés. Ces mots, comme "Fuck-up Night" sont des appelations souvent usitées par la FrenchTech ou l'écosystème start-up français. 
+
+Le RGCS d'écrit d'ailleurs après sa note, annexe 3, son détails des médias et supprots de communication des tiers-lieux par une eétdue de 55 espaces collaboratifs possédant "un site internet et une page facebook". Cette approche réductives des supports de communications peut être un choix stratégique de recherche, mais il embarque un risque très élevé de non-compréhension des internet par les rechercheurs, et surtout une affiche un méconnaissance dans l'avant puis dans l'études des Tiers-Lieux qui n'usent pas de facebook.
+
+Le RGCS conclue cette note par "Les acteurs des tiers-lieux et des espaces  collaboratifs
+(externes comme corporate), transforment, rendent visibles, et accélèrent l’émergence des nouvelles pratiques de travail dans nos sociétés". Si cette prote ouverte est enfoncée avec une base d'analyse contestable elle fait cependant écho aux rélaistés de Tiers-Lieux qui travaillent en profondeur et avec rigueur sur plusieurs sujet. La souvéraineté technologique, qui aurait pu servir au RGCS, étant un des nombreux actes de transformations que cultivent le Tiers-Lieux.
+
 
 ## Souvraineté technologique
 
@@ -302,6 +311,8 @@ Ce premier volume inclut des textes rédigés par Richard Stallman, Patrice Riem
 Le volume 2 est intégralement disponible en [Francais](https://vrr.im/4109), [Espagnol](https://vrr.im/6430) et [Anglais](https://vrr.im/5a89)
 
 Le volume 1 est intégralement disponible en [Espagnol](https://vrr.im/881f) et [Italien](https://vrr.im/194f). Les traductions en francais, catalan et en anglais seront bientôt disponibles.
+
+Dans cette souveraineté technologique la pratiques des sciences et des techniques est assurée de plus de libertés et de transparence, d'éthique et de qualités. Dans cette souverainté technologique le Tiers-Lieux peut pratiquer, étudier, publier, pour continuer son oeuvre avec respectabilité et probité. Ce qui participe à le prémunir d'une métabolisation par une dérive du discours.
 
 ## Tiers-Lieux réifiés et Tiers-Lieux incorporés
 
@@ -337,7 +348,9 @@ Le travail de réflexivité résumé dans cet article ne resoudra pas à lui seu
 
 Enfin, si le Tiers-Lieux est aujourd'hui, en France tout du moins, un objet cristalisant des enjeux, des envies, des espoirs, ces convoitisent, il est de la responsabilité des personnes qui font Tiers-Lieux de s'emparer de ces enjeux et des question inhérentes, de le faire soi-même, ensemble et avec d'autres (Do It Yourself, Do It Together, Do It with Others). Se pose alors immédiatement la question de la gouvernance et des instances. Consitués dabord et avant tout de communautés mouvantes, contributives, d'un langage, d'une géographie et d'une architecture, d'une émergence de sciences, le Tiers-Lieux pourrait être l'espace de réinvention de la gouvernance, peut être pas le consensus (qui est à l'étude actuellement), le Tiers-Lieux pourra être le champs d'un design des instances. Nous devrons, ensemble, ainsi mettre autant de rigueur et de contributions libres et open source dans cette nouvelle exploration.
 
-Il n'y a pas d'un coté un monde réctionnaire et conservateur avec sa lithurgie propre, de l'autre un monde néo-capitaliste progressiste avec sa propagande lithurgique, et au milieu le Tiers-Lieux comme champs de médiation ou d'amortissement de mouvements techtoniques. Le Tiers-Lieux est une réalité complexe, transitoire et chaotique s'inscrivant dans le décalage croissant qui nait entre monde à partir et un monde à venir, qui comme tout organisme vivant porte en lui et subit par le dehors de lui-même des offensives de métabolisation qui pourrait conduire à son artificialisation. 
+Il n'y a pas d'un coté un monde réctionnaire et conservateur avec sa lithurgie officiel institué par une temple économique, de l'autre un monde néo-capitaliste progressiste avec sa propagande lithurgique, et au milieu le Tiers-Lieux comme champs de médiation ou d'amortissement de mouvements techtoniques. Le Tiers-Lieux est une réalité complexe, transitoire et chaotique s'inscrivant dans le décalage croissant qui nait entre monde à partir et un monde à venir, qui comme tout organisme vivant porte en lui et subit par le dehors de lui-même des offensives de métabolisation qui pourrait conduire à son artificialisation. 
+Dans le cultes, dont les mots forment une réalité non fondée et dont les professor sont célébrants, il n'y pas de sciences mais des croyances. C'est dans ces croyances que se logent le outil qui forgent l'articiel. Le Tiers6lieux a besoi des sciences.
+Car la métoblisation peut aller jusque-là. Amalgamer j'usqu'à même nos environnements pour réaliser le désir inavouable de faire tenir ensemble la nature première du Tiers-Lieux et sa nouvelle nature capitaliste. Donner corps à une réaltié articifielle et articialisante pour les individus.
 
 
 
