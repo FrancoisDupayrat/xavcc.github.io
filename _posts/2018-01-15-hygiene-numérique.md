@@ -38,7 +38,7 @@ Petite entorse qui peut faire du bien, car j'aime pas les rêgles strictes, je n
 
 Si je suis dérangé ou sollicité pendant un temps assez long lors de la rélaisation d'un tâche, je le note sous la tâche. Cela permet de tracer et de savoir combien de temps la vraie tâche a prise comme temps. 
 
-C'est moi qui choisi l'arrangement de mon temps et où et comment mon attention est dirigée et utilisée. Dans les pauses, la marche et la lecture sont pratiquées plusieurs fois par jour, qu'importe que je sois en ville ou en plein campagne. C'est stimulant, enrihissant, permet de prendre du recul, mai sc'est surtout du tempspour soi.
+C'est moi qui choisi l'arrangement de mon temps et où et comment mon attention est dirigée et utilisée. Dans les pauses, la marche et la lecture sont pratiquées plusieurs fois par jour, qu'importe que je sois en ville ou en plein campagne. C'est stimulant, enrihissant, permet de prendre du recul, mais c'est surtout du temps pour soi et ça n'a pas de prix.
 
 J'utilise un tableau numérique ou no numérique (sur un mur ou sur un cahier) pour spatialiser mes tâches et visualiser la progression.
 
