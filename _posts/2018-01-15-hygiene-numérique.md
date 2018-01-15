@@ -13,7 +13,8 @@ Si vous ne la saviez pas encore, il existe une [économie de l'attention](https:
 Par exemple, il existe un thése universitaire "[La liberté par l'information : généalogie politique du libéralisme informationnel et des formes de l'auto-organisation sur internet](http://www.theses.fr/2012EHES0002)", par Benjamin Loveluck, mais il est fort probable que vous pensiez que le temps vous manque pour lire cette oeuvre.
 
 Bien, ainsi soit-il... Vorte temps est considéré comme un gisement à exploiter par certaines personnes et votre attention est pierre précieuse à piller. Comment dans cette ambiance prendre soin de vos ressources, de les protèger et donc prendre soin de vous ?
-[Qui est responsable du temps passé sur nos smartphones?](https://www.franceculture.fr/emissions/le-numerique-et-nous/qui-est-responsable-du-temps-passe-sur-nos-smartphones), les designers sur france culture.
+
+[Qui est responsable du temps passé sur nos smartphones?](https://www.franceculture.fr/emissions/le-numerique-et-nous/qui-est-responsable-du-temps-passe-sur-nos-smartphones), des designers s'expriment à ce sujet sur france culture.
 
 ## Cultiver du temps
 
@@ -38,7 +39,9 @@ Si je suis dérangé ou sollicité pendant un temps assez long lors de la rélai
 
 C'est moi qui choisi l'arrangement de mon temps et où et comment mon attention est dirigée et utilisée. Dans les pauses, la marche et la lecture sont pratiquées plusieurs fois par jour, qu'importe que je sois en ville ou en plein campagne. C'est stimulant, enrihissant, permet de prendre du recul, mai sc'est surtout du tempspour soi.
 
-J'utilise un tableau numérique ou physique (sur un mur ou sur un cahier) pour spatialiser mes tâches et visualiser la progression.
+J'utilise un tableau numérique ou no numérique (sur un mur ou sur un cahier) pour spatialiser mes tâches et visualiser la progression.
+
+Je considère mon travaille comme un jardin dans lequel j'investit du temps, mon attention est un carburant de mes compétences, et le tout ppourra donner des graines et des fruits. Ainsi je ne laisse pas un tiers polluer mon jardin, capturer mon essence et altérer mes compétences. Je peux ensuite partager les graines et fruits saines avec d'autres en bonne conscience. 
 
 ## Traçabilité
 
