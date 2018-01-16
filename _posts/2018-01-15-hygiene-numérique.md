@@ -2,7 +2,7 @@
 layout: post
 title: "Hygiène numérique 2, écologie du temps et préservation de l'attention"
 date: 2018-01-15
-categories: ["hsociéty"]
+categories: ["hsociety"]
 ---
 
 Voici quelques pistes pour organiser, gérer, votre temps au travail ou dans vos loisirs.
