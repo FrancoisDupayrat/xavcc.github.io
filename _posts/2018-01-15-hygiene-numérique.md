@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hyginène numérique 2, écologie du temps et préservation de l'attention"
+title: "Hygiène numérique 2, écologie du temps et préservation de l'attention"
 date: 2018-01-15
 categories: ["hsociéty"]
 ---
