@@ -20,7 +20,7 @@ Open source Bioware - Open Knowledge
 
 * Founder [@Le_biome](https://lebiome.github.io/), Biomimicry HackLab 
 
-* BioHacktivist Commoner [@OpenBioFabrics](https://openbiofabrics.github.io/), The innovation in fashion will be by bacteria: Biotextile SCOBY & the community .
+* C.A.P | Conrtibuteur, Aucteur, Porteur de projet chez [daisee](http://daisee.org/), Internets of Energy | Energy as a Commons - Ethereum Technology
 
 * Intervenant en écoles supérieures et universités, conférencier, explorateur. Je résous parfois les problèmes des organisations et des entreprises, si et seulement si vous le voulez vraiment.
 
