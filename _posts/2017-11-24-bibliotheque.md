@@ -54,10 +54,12 @@ Des refuges...
 - des personnes, usagers - contibutices - passeurs et passeuses de savoirs
 - des ressources (compétences, livres, accès internet, conseils, DVD, informations, prises de courant...)
 - des rencontres (j'insiste sur ce point!)
+![](https://framapic.org/7NwXuV0RPrK0/BUXbEdwVSo9P)
+
 
 **Pour**
-_attentions suprise vous alez avoir_
-+ Start-uppeuse et upper démarrant
+_attentions suprises vous allez avoir_
++ Start-uppeuses et uppers démarrant une aventure
 + Personnes en recherche d'emploi (au passage c'est le RSA fait vivre les "Start-up" car tous nous avons été fauché en vrai)
 + Étudiant.e.s
 + Chercheuses et chercheurs
