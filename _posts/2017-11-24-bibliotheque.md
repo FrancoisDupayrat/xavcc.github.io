@@ -71,6 +71,7 @@ _attentions suprises vous allez avoir_
 + Migrant.e.s ou éxilé.e.s sans papiers
 + Enseignant.e.s
 + Chef.fe.s d'entreprise
++ Et tellement plus...
 
 Bref, vous l'avez compris, la liste est immense. Dans de cette diversité il faut avoir conscience des réalités sociales et des raisons de la venue pour permmetre les conditions de rencontes et donc d'innovations (sociales, éco, tech, édu, bio...) en bibliothèque. Ces lieux refuges ne sont pas de simples halles à livres ou des poste informatique pour foramilités administratives.
 
@@ -117,4 +118,13 @@ Des postures à encourager pour les personnes qui animent ces espaces comme par 
 
 **Processus** : se documenter, tester par soi-même, puis documenter à son tour les [processus Tiers-Lieux](http://movilab.org/index.php?title=Accueil). Si vous n'y comprenez pas grand chose, posez vos questions, faites le où que vous soyez, par le moyen qui vous convient, qu'importe le moment, qu'importe qui vous êtes, c'est votre droit !
 
-## Pourquoi Faire ?
+## Pourquoi le Faire ?
+
+Les médiathèques, les bibliothèques, cherchent à se réinventer ou se redéfinir, selon qui voudrait leur ajoindre une injonction de mutation. Mais je ne pense pas que nous puissions changer une institution sans changer les cultures et les pratiques des personnes qui composent cette instituion. Les "publics" sont et font partie prenante de cette composition. Il ne s'agit pas non plus de "barbariser" les médiathèques et bibliothèques en leur imposant un paradoxe commandé "soyez libres", ni d'obliger à être de telle ou de telle autre mouvance, la neutralité est la condition sine qua non à sa capacité d'accueil et sa citoyenneté. Pourtant, dans ces configurations, rapidement décrites ci-avant, les médiathèques et bibliothèques, et avant tout les personnes qui les font au  quotidient, apparaissent comme des acteurs qui influent sur la ville et les campagnes. Dans ce sens ces personnes et ces lieux protent une responsabilité sociale et sociétale, presque  un acte acte politique qui façonne avec d'autres les contours de la cité à vivre et habiter. 
+
+Ce sont des espace-temps devenus refuges, lieux publics et recevant du publics ; ils peuvent être agora un jour, une salle de classe le même jour, un abri le lendemain... ils peuvent être ce qu'ils arrivent à faire et pas autre chose. Cela paraît si simple à écrire et pourtant si complexe à accomplir.
+
+Ce n'est pas à moi d'imposer un vision de ces lieux, ce n'est pas à moi d'invoquer des pratiques aux personnes qui font ces lieux. Je tente simplement et humblement de rencontre compte des certaines choses, pratiques, cultures, possibles, qui peuvent s'exprimer dans les `Bib'`. J'ai certainement l'intuition, partagée dans ces lignes, que des processus et pratiques liès à des cultures, parfois éloignées de l'organisation habituelle des médiathèques et bilbliothèques, peuvent être utiles pour faire évoluer ces ensembles personnes-espaces-temps. Je pourrais mettre en garde et être très critique sur la tentation de singer un langage "tiers" pour à tout prix vendre sa propre identité sur un marché disrutptif des appelations à la mode. 
+
+Alors à la question de "Pourquoi le faire", je préfère, bien plus qu'une réponse pré-conçue ou cahier des charges standardisé, vous proposer une réflexion et une interrogation qui passe autant par la pratique que la documentation : Libre et Open Source !
+Une réflexivité par, avec, dans, la diversité qui fait bibliothèque et même en dehors de ses murs, car ce que les médiathèques et les biblithèques favorisent sont des acquis qui polinisent par fois loin de leur plan d'occupation des sols. 
