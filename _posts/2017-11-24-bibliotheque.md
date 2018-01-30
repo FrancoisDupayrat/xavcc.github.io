@@ -72,7 +72,7 @@ _attentions suprises vous allez avoir_
 + Enseignant.e.s
 + Chef.fe.s d'entreprise
 
-Bref, vous l'avez compris, la liste est immense. Dans de cette diversité il faut avoir conscience des réalités sociales et des raisons de la venue pour permmetre les conditions de rencontes et donc d'innovations (sociales, éco, tech, édu, bio...) en bibliothèque. Ces leiux refuges ne sont pas de simples halles à livres ou des
+Bref, vous l'avez compris, la liste est immense. Dans de cette diversité il faut avoir conscience des réalités sociales et des raisons de la venue pour permmetre les conditions de rencontes et donc d'innovations (sociales, éco, tech, édu, bio...) en bibliothèque. Ces lieux refuges ne sont pas de simples halles à livres ou des poste informatique pour foramilités administratives.
 
 ## Où et quelques exemples de quoi ?
 
@@ -80,23 +80,41 @@ Dans ces petites choses en bibliothèque, beaucoup de temps furent passés aux [
 
 Il y a également eut des Opération #FreeParty pour les graines de fruits et légumes Rennes dans la bilblithèque du campus des sceinces ![](https://pbs.twimg.com/media/DA1wRB_WsAM3Cfa.jpg)
 
-Aussi des conférences à Quiberon pour la [quinzaine du numérique](http://www.ville-quiberon.fr/actualites/culture/la-quinzaine-numerique-a-la-mediatheque-2017) en 2017 et région parisenne pour la fête des sciences à Bétiigny s/ Orge. Je finis d'ailluers ces lignes dans une médiathèques face à 2 start-uppers qui répètent leur présentation avant oral devant un Capital Venture
+Aussi des conférences à Quiberon pour la [quinzaine du numérique](http://www.ville-quiberon.fr/actualites/culture/la-quinzaine-numerique-a-la-mediatheque-2017) en 2017 et région parisenne pour la fête des sciences à Bétiigny s/ Orge. Je finis d'ailleurs ces lignes dans une médiathèques face à 2 start-uppers qui répètent leur présentation avant oral devant un Capital Venture
 
-En Réseau des bibliothèques du Morbihan pour une conférence sur le biomimétisme, médiathèque de Rostrenen dans laquelle j'ai modifié de la sève de pissenlit avec du souffre, bibliothèque de Châteaubourg dans laquelle j'ai testé des prélevements de rivière venus de la Vilaine, Bibliothèque de L'INSA Rennes pour faire du `PenTest`, Pontivy pour un OpenROV (robot sous-marin open source), Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des données dela NASA (Srtm2Osm), [médiathèque d'Auray](http://mediatheque.auray.fr/search.php?action=Accueil) pour prélever mon sang pour en extraire des enzymes..  
+En Réseau des bibliothèques du Morbihan pour une conférence sur le biomimétisme, médiathèque de Rostrenen dans laquelle j'ai modifié de la sève de pissenlit avec du souffre, bibliothèque de Châteaubourg dans laquelle j'ai testé des prélevements de rivière venus de la Vilaine, Bibliothèque de L'INSA Rennes pour faire du `PenTest`, Pontivy pour un OpenROV (robot sous-marin open source).
+![](https://framapic.org/nZ1ujXT6LsVZ/vFvYUwtcCWS0)
+Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des données dela NASA (Srtm2Osm), [médiathèque d'Auray](http://mediatheque.auray.fr/search.php?action=Accueil) pour prélever mon sang pour en extraire des enzymes..  
 
-## Quoi d'autres ?
+## Quoi d'autres les bibliothèques et médiathèques ?
 
 + De la question des libertés informatiques...
-+ Les Tiers-Lieux libres et open source...
++ Les Tiers-Lieux libres et open source et [recherches associées](https://xavcc.github.io/hsociety/2018/01/16/tilios.html)...
 + Du clonage de mycélium de champignon...
 
 ![](https://pbs.twimg.com/media/DAYbBAnXsAQODIT.jpg)
 
 + Des lectures...
-+ Des algorithmes...
-+ De l'ADN...
++ Des algorithmes et [blockchain avec des bactéries des sols](https://github.com/LeBiome/Proto_et_Projets/wiki)...
++ De l'ADN et des [sceinces avec des revendication féministes](https://medium.com/we-are-biomers/fais-le-toi-m%C3%AAme-fais-le-avec-dautres-5cf5ee4867a0)...
 + Des catograhphies...
++ [Des hackathons sur l'économie circulaire open source](https://lebiome.github.io/#LeBiome/Hackathons) et le biofabrication
+
+![](https://framapic.org/OJrF7JP3uASo/F2gfKInJXZb7)
+Nous n'avions pas prévenu de nos activités avant de débarquer pour la plupart du temps (sauf pour les conférences ou interventions programmées), nous n'avions pas réservé d'espaces dédié ou demandé d'équipement. Nous sommes venues, avec nos habitus, avec nos savoirs, avec nos matériels, avec nos envies d'apprendre et de partager. 
 
 ## Comment faire ?
+Le respect des rêgles aplliquées dans l'espace est obligatoire, et cela jusqu'à ce ces rêgles changent. Cela se tissent avec deux principes philosophiques :
+
+1. symétrie des libertés : la garantie que personne n’est privilégiée par la définition d’une liberté donnée sur un objet particulier (l'accès, le logiciel, les ressources, la monnaie, le code social…)
+2. non nuisance des libertés : la liberté, ce n’est pas “pouvoir faire n’importe quoi”
+
+Des postures à encourager pour les personnes qui animent ces espaces comme par et pour celle qui les fréquentes :
+
+**L’accueil** : faire en sorte que les personnes – de tous horizons et identités confondues – soient les bienvenues, qu’elles se sentent accueillies dans un espace ouvert et chaleureux. Cela inclut, mais sans s’y limiter, les membres de toute ethnie, culture, nationalité, couleur, statut d’immigration, classe économique et sociale, niveau d’éducation, sexe, orientation sexuelle, identité sexuelle, âge, taille, situation familiale, croyance politique, religion, capacité mentale et physique.
+
+**Le droit à l'erreur** : c'est faisant des erreurs que l'on apprend, en partageant ces erreurs que l'on apprend et que l'on transmet. On s'améliore en répétant des acquis (donc on devient encore le meilleur du pire en répétant les erreurs ;-) ). Le doir à l'erreur doit être affiché et cultivé comme inaliénable. 
+
+**Processus** : se documenter, tester par soi-même, puis documenter à son tour les [processus Tiers-Lieux](http://movilab.org/index.php?title=Accueil). Si vous n'y comprenez pas grand chose, posez vos questions, faites le où que vous soyez, par le moyen qui vous convient, qu'importe le moment, qu'importe qui vous êtes, c'est votre droit !
 
 ## Pourquoi Faire ?
