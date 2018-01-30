@@ -54,6 +54,7 @@ Des refuges... des lieux hospitaliers dans un monde bouleversé...
 - il y a des ressources (compétences, livres, accès internet, conseils, DVD, informations, prises de courant...)
 - il y a des rencontres (j'insiste sur ce point!)
 - Une Neutralité qui semble disparaître ailleurs
+
 ![](https://framapic.org/7NwXuV0RPrK0/BUXbEdwVSo9P)
 
 
@@ -61,21 +62,21 @@ Des refuges... des lieux hospitaliers dans un monde bouleversé...
 
 _attentions suprises vous allez avoir_
 + Start-uppeuses et uppers démarrant une aventure
-+ Personnes en recherche d'emploi (au passage c'est le RSA fait vivre les "Start-up" car tous nous avons été fauché en vrai)
++ Personnes en recherche d'emploi (au passage c'est le RSA fait vivre les "Start-up" car tous nous avons été fauché.e.s en vrai)
 + Étudiant.e.s
 + Chercheuses et chercheurs
 + Enfants
 + Artistes
 + Nerd & Geek (qui peuvent cumuler plusieurs attributions ci-avant et ci-après)
-+ Migrants sans papiers
-+ Enseignants
++ Migrant.e.s ou éxilé.e.s sans papiers
++ Enseignant.e.s
 + Chef.fe.s d'entreprise
 
-Bref, vous l'avez compris, la liste est immense. Dans de cette diversité il faut avoir conscience ds réalités pour permmetre les conditions de recnocntrtes et donc d'innovations (sociales, éco, tech, édu, bio...) en bibliothèque. 
+Bref, vous l'avez compris, la liste est immense. Dans de cette diversité il faut avoir conscience des réalités sociales et des raisons de la venue pour permmetre les conditions de rencontes et donc d'innovations (sociales, éco, tech, édu, bio...) en bibliothèque. Ces leiux refuges ne sont pas de simples halles à livres ou des
 
 ## Où et quelques exemples de quoi ?
 
-Beaucoup de temps furent passés aux [Champs Libres à Rennes](https://www.leschampslibres.fr/), (Voir la [carte Rennes](http://www.devfriendlyplaces.net/#rennes)) et nous avons même fait des [ateliers sur l'économie](https://xavcc.github.io/hsociety/2016/01/16/nex-eco.html) lors d'une biennale)
+Dans ces petites choses en bibliothèque, beaucoup de temps furent passés aux [Champs Libres à Rennes](https://www.leschampslibres.fr/), (Voir la [carte Rennes](http://www.devfriendlyplaces.net/#rennes)) et nous avons même fait des [ateliers sur l'économie](https://xavcc.github.io/hsociety/2016/01/16/nex-eco.html) lors d'une biennale)
 
 Il y a également eut des Opération #FreeParty pour les graines de fruits et légumes Rennes dans la bilblithèque du campus des sceinces ![](https://pbs.twimg.com/media/DA1wRB_WsAM3Cfa.jpg)
 
@@ -83,24 +84,18 @@ Aussi des conférences à Quiberon pour la [quinzaine du numérique](http://www.
 
 En Réseau des bibliothèques du Morbihan pour une conférence sur le biomimétisme, médiathèque de Rostrenen dans laquelle j'ai modifié de la sève de pissenlit avec du souffre, bibliothèque de Châteaubourg dans laquelle j'ai testé des prélevements de rivière venus de la Vilaine, Bibliothèque de L'INSA Rennes pour faire du `PenTest`, Pontivy pour un OpenROV (robot sous-marin open source), Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des données dela NASA (Srtm2Osm), [médiathèque d'Auray](http://mediatheque.auray.fr/search.php?action=Accueil) pour prélever mon sang pour en extraire des enzymes..  
 
-## Quoi ?
+## Quoi d'autres ?
 
-De la question des libertés informatiques...
++ De la question des libertés informatiques...
++ Les Tiers-Lieux libres et open source...
++ Du clonage de mycélium de champignon...
 
-Du robot sous-marin en rivière...
-
-Du latex à base de pissenlit...
-
-Du clonage de mycélium...
 ![](https://pbs.twimg.com/media/DAYbBAnXsAQODIT.jpg)
 
-Des lectures...
-
-Des algorithmes...
-
-De l'ADN...
-
-Des catograhphies...
++ Des lectures...
++ Des algorithmes...
++ De l'ADN...
++ Des catograhphies...
 
 ## Comment faire ?
 
