@@ -33,6 +33,10 @@ Je vous conseille [Qwant](https://www.qwant.com), c'est Made in France et c'est 
 
 Vous pouvez également jeter un oeil sur [DuckDuckGo](https://duckduckgo.com/). La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateur.
 
+le PDG de Qwant Éric Leandri nous dit ceci de DuckDuckGo lorsqu’on le compare à son propre moteur de recherche :
+
+> « C’est juste un méta-moteur hébergé sur Amazon Web Services. C’est du Canada Dry. Si le gouvernement américain veut des données, il n’a qu’à demander à Amazon, sans même passer par Duck Duck. » _[Source](http://franck-ridel.fr/duckduckgo-le-canard-aux-pratiques-boiteuses/)_
+
 ### Petits plus pour personne vraimment curieuse
 
 + Mozilla a silencieusement déployé la fonctionnalité [First Party Isolation](https://www.developpez.com/actu/174643/Mozilla-a-silencieusement-deploye-la-fonctionnalite-First-Party-Isolation-empruntee-a-Tor-pour-endiguer-le-profilage-des-regies-publicitaires/) empruntée à Tor. Pour endiguer le profilage des régies publicitaires, l'add-on est : [First Party Isolation by freddyb](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
