@@ -30,7 +30,8 @@ Chacun emmène :
 ![](/static/img/pixel.gif)
 
 
-Les **règles** 
+## Les **règles** 
+
 **Autogestion**
 
 - Ceux qui seront là feront le workshop
@@ -64,7 +65,7 @@ Les **règles**
   - Manipulation de Mycélium de champignon : https://champignonscomestibles.com/clonage-culture-mycelium-carton-champignon
 
 
-- 18h30 Master class en visioconférence avec Michel Lallement depuis Lyon organisée par l’éco hacklab la Myne sur l’âge du Faire https://www.facebook.com/events/329300317486078/
+- 18h30 [Master class en visioconférence](https://www.facebook.com/events/329300317486078/) avec Michel Lallement depuis Lyon organisée par l’éco hacklab la Myne sur l’âge du Faire 
 
 
 
@@ -111,7 +112,7 @@ voir : https://lebiome.github.io/
 A voir : 
 
 - les [travaux de Henry Dic](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)[k](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)[s](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)  
-- et rencontres à Lyon : https://storify.com/ryu5t/biomimetisme-5-l-agora-de-la-clairiere
+- et [rencontres à Lyon sur le biomimétisme](https://storify.com/ryu5t/biomimetisme-5-l-agora-de-la-clairiere)
 
 **Déambulation dans la nature pour inspiration**
 
@@ -128,7 +129,7 @@ On a parlé de bio inspiration
 
 Parlons de bio remediation, les mousses filtrent l’eau, les champignons filtrent les polluants et absorbent les métaux lourd. Deux chercheurs travaillent sur la bio remediation à l’UTC. Antoine Fayeulle travail avec les champignons et Edvina Lamy travail avec les bactéries.
 
-- Voir le wiki du kit à faire soi même: http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
+- Voir le [wiki du kit à faire soi même](http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme)
 
 mimosa pudica 
 mouvement avec une énergie frugale
@@ -139,16 +140,13 @@ bâtiment inspiré du mvt des végétaux ou formes des plantes : oignon, tournes
 
 <script async class="speakerdeck-embed" data-id="fb1de433bd3f4e859d62585fedf79d4c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-
-[https://speakerdeck.com/xavcc/smart-and-open-cities-biomimicry-based](https://speakerdeck.com/xavcc/smart-and-open-cities-biomimicry-based)
-
 graine pomme de pin => emballage médicament
 
 feuille même but mais format différent
 système de transmission
 
 Origami inspiré des feuilles
-Super reportage ici : https://vimeo.com/ondemand/unmondeenplis (possibilité de le trouver en streaming)
+Super reportage [ici](https://vimeo.com/ondemand/unmondeenplis) (possibilité de le trouver en streaming)
 
 La question entre biomimétisme et rapport éthique est posée : Voici quelques notes à ce sujet +Le biomimétisme est-il une éthique ? 
 
@@ -168,13 +166,11 @@ Formation de 3 groupes travail autonomes sur les sujets SCOBY / Cire d’abeille
 
 
 Equipe formée de : Alexis, Herehau, Camille, Aurore
+<iframe width="560" height="315" src="https://www.youtube.com/embed/va6ipoTIhmg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=va6ipoTIhmg&&feature=youtu.be
 
 
-[https://youtu.be/va6ipoTIhmg](https://youtu.be/va6ipoTIhmg)
-
- Voir :  https://openbiofabrics.github.io/
++ Voir :  [OpenBioFabrics](https://openbiofabrics.github.io)
 
 Que peut on faire de ce matériau ? 
 
@@ -184,7 +180,7 @@ Le scoby en culture est gélatineux mais résistant ( fait penser à une prothè
 
 Test sur le scooby sec :
 
-| milieu et type de scoby                              | observations (environ 1h) Temp ambiante                                                                                                       |
+| milieu et type de scoby                              | observations (environ 1h) Temp° ambiante                                                                                                       |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | scoby sec vieux dans de l’eau T° ambiante            | pas de réel gonflement  légère réhydratation, entier                                                                                          |
 | scoby sec vieux dans du liquide de culture           | pas de différence notable par rapport à celui dans l’eau,  on a testé le déchirer après hydratation c’est  beaucoup plus solide que du papier |
@@ -296,7 +292,7 @@ Propriétés
   - forme la plus économique en matériau
 ![](https://www.mybeeline.co/media/cache/resolve/full/post-content-hex-infographic-421x1024.jpg)
 
-  - 
+
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1495287388037_file.jpeg)
 
 
@@ -309,11 +305,12 @@ Propriétés
 
 
 
-Applications
+**Applications** :
 
 - pneus increvables: "The goal was to reduce the variation in the stiffness of the tire, to make it transmit loads uniformly and become more homogenous," said mechanical engineering professor Tim Osswald. "And the best design, as nature gives it to us, is really the honeycomb."
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NtxGa_qY110" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - habitat économe
+
 ![](https://www.mybeeline.co/media/cache/resolve/full/post-content-hex_camp-1024x683.jpg)
 
 
@@ -331,7 +328,7 @@ On décolle la couche supérieure grâce à un scalpel
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20333604831AE14157504066C65C5E89B81CB116ED61D39766A2D92EA716B092_1495119833649_18578926_10212444821533245_1858597468_n.jpg)
 
 
-On met de l’eau chauffée à la bouilloire dans un récipient, on trempe le carton 10min dans l’eau (les morceaux restants de la couche supérieure de carton se décolle)
+On met de l’eau chauffée à la bouilloire dans un récipient, on trempe le carton 10 min dans l’eau (les morceaux restants de la couche supérieure de carton se décolle)
 On le laisse sécher, pour obtenir un carton humide mais pas trop imbibé.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_20333604831AE14157504066C65C5E89B81CB116ED61D39766A2D92EA716B092_1495121191705_18575721_1416854745042056_1870456069_o.jpg)
@@ -364,7 +361,7 @@ Enfin, on place les boîtes de Pétri dans un incubateur (ici, nous les avons pl
 
 
 
-- Mycelium comme matériaux de construction : https://opensourcemushroomdomehouse.wordpress.com/tag/mycelium/
+- Lien : [Mycelium comme matériaux de construction](https://opensourcemushroomdomehouse.wordpress.com/tag/mycelium)
 
 
 
@@ -380,11 +377,9 @@ Tests différentes conditions
 - Du scoby ancré remis en culture
 - Passage au fer à souder
 - Passage au micro-onde --> Gonflement, odeur à changer/de pain
-- Possibilité de propriétés isolantes car il a plusieurs couches
+- Possibilité de propriétés isolantes car il a plusieurs couches, etc
 
-etc
-
-ça ne brûle pas comme le bois car plein
+ça ne brûle pas comme le bois car plein de fibres entre-tissées
 
 Nous avons rencontré les difficultés :  
 
@@ -397,16 +392,19 @@ Nous avons appris :
 - Biocompatibilité possible ?
 
 **Cire d’abeille**
+
 Etude de la structure
-seulement résultats de compréhnension en 2013 sur la structures après de longue années de recherche
-diverses hypothèses : structure qui optimise bien l’espace
-étude sur les abeilles : rond de cire structure optimisée forme hexagonale
-Facilement visible avec des bulles de savon, Comparaison avec les bulles savon formées par une tension superficielle et la structuration de la cire d’abeille
-hexagones décalés bon moyen de supporter la pression, puit présent au fond de chaque hexagone 
-inclinaison du puit pour empêcher le miel de sortir.
-Propriétés: résistance de compression, capacité de déformation, supporte la compression
-Différentes applications: pneus (armée américaine basés sur la structure de la cire )
-Ils ont voulu modéliser en 3D à fin de tester la résistance 
+seulement résultats de compréhnension en 2013 sur la structures après de longue années de recherche diverses hypothèses : structure qui optimise bien l’espace
+
++ étude sur les abeilles : rond de cire structure optimisée forme hexagonale
+
+Facilement visible avec des bulles de savon, Comparaison avec les bulles savon formées par une tension superficielle et la structuration de la cire d’abeille hexagones décalés bon moyen de supporter la pression, puit présent au fond de chaque hexagone inclinaison du puit pour empêcher le miel de sortir.
+
++ Propriétés: résistance de compression, capacité de déformation, supporte la compression
+
++ Différentes applications: pneus (armée américaine basés sur la structure de la cire )
+
++ Ils ont voulu modéliser en 3D à fin de tester la résistance 
 
 
 Nos difficultés rencontrées :
@@ -436,13 +434,13 @@ Nous avons appris :
 
 - un tips pour décoller les couches du carton pour en faire un lite de culture, décoller les couches de carton est plus facile en le mettant directement dans l’eau 
 
-future
+## Le futur pour les apprenant.e.s
 
-IL Y A TOUJOURS QUELQUE CHOSE À APPRENDRE DU BIOMIMÉTISME
-La biologie, ça prend du temps
-il faut se réorganiser dans la temporalité
-essai erreur
-Optimisation des flux d’information de matière et d’énergie
+1. IL Y A TOUJOURS QUELQUE CHOSE À APPRENDRE DU BIOMIMÉTISME
+2. La biologie, ça prend du temps
+3. il faut se réorganiser dans la temporalité
+4. essai erreur
+5. Optimisation des flux d’information de matière et d’énergie
 
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495571300253_IMG_4090.JPG)
@@ -455,27 +453,23 @@ Le biomimétisme change notre vision du temps, dans nos expériences nous avons 
 Petit problème de gestion de temps sur le workshop, nous n’avons pas eu le temps de parler de algorithm des fourmis.
 Possibilité de lancer pleins de projets dans le green lab comme scoby !  Se servir des doc du biome pour futur projets. 
 
-Rapide initiation au choix de licence de nos documents :  
-Plus tu ferme ta licence plus tu peux te faire agresser. Le degré de fermeture d'une licence = le degré d’agression que tu choisis de supporter.
+## Rapide initiation au choix de licence de nos documents :  
+Plus tu "fermes" ta licence plus tu peux te faire "agresser" juridiquement. Le degré de fermeture d'une licence = le degré d’agression que tu choisis de supporter.
 
-Licence creative common 
-Creative common.org
-Pas de licence, le droit d’auteur s’applique pas default en France.
+**Voir :**
++ Licence creative common : Creative common.org
+
+Si pas de licence, le droit d’auteur s’applique pas default en France.
 
 NB :
 Pour prendre des notes ou réaliser des documentations Collaboratives en Open Source avec des outils libres, exemple :
-Hack md.io
-frama pad
++ Hackmd.io
++ framapad
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495124357543_file.jpeg)
 
 
-
-----------
-
-
-# **R****essource****s** **de travail**
-
+## Ressources de travail 
 
 - Ant algorithm : 
   - [Ant colony optimization (aco) in matlab](http://freesourcecode.net/matlabprojects/57496/ant-colony-optimization-%28aco%29-in-matlab) 
@@ -499,9 +493,7 @@ frama pad
   - [Download Source Code](http://freesourcecode.net/matlabprojects/57514/ant-colony-optimization-matlab-code#.WRw8PjekLeQ)
 
 
-Workshop biocolab 
-
-https://storify.com/XavierCoadic/it-s-kind-of-a-biocolab-story
+Pour aller plus loin dans les [Workshop biocolab](https://storify.com/XavierCoadic/it-s-kind-of-a-biocolab-story)
 
 
 
@@ -510,7 +502,7 @@ https://storify.com/XavierCoadic/it-s-kind-of-a-biocolab-story
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-# Licence du document
+# Licence du document Choisi par les apprenant.e.s
 
 Biomimicry Land UTC de Mycélium, UTC, le biome hacklab, les participants au workshop est mis à disposition selon les termes de la [licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 Les autorisations au-delà du champ de cette licence peuvent être obtenues à [https://lebiome.github.io](https://lebiome.github.io/).
