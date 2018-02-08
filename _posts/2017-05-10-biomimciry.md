@@ -5,9 +5,11 @@ date: 2017-05-10
 categories: ["biomimicry"]
 ---
 
-Cours du 10.05.2017 au ingénieur.e.s diplomé.e.s suivant un cursus supplémentaire de Mastère en éco-conception
+Cours du 10.05.2017 au ingénieur.e.s diplomé.e.s suivant un cursus supplémentaire de Mastère en éco-conception au format workshop
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494410631779_file.jpeg)
+
+Ces notes sont issues d'un écriture collaborativ entres 2 enseignants et les groupes d'apprenant.e.s réalisées en live pendant le cours.
 
 ## Les objectifs pédagogiques principaux:
 - autonomie
@@ -25,7 +27,7 @@ Cours du 10.05.2017 au ingénieur.e.s diplomé.e.s suivant un cursus supplément
 - [Master Class 2016](https://lebiome.github.io/#LeBiome/community/tree/master/Master_Class)
 - [Initiation au biomimétisme](https://lebiome.github.io/#LeBiome/community/blob/master/initiation_biomimetisme.md)  
 - [Open source circular economy days 2015](https://oscedays.org/rennes-2015/)
-## 
+=
 
 **JOURNEE BIOMIMÉTISME EME RENNES - 10 MAI 2017**
 9h-18h campus de Ker Lann
@@ -65,7 +67,7 @@ Groupe d'environ 12 personnes
  **Présentation du biomimétisme (maxi 10 slides)  (30'' environ) :** 
  [SLIDES DE PRESENTATION](https://speakerdeck.com/xavcc/journee-biomimetisme-ecole-des-metiers-de-lenvironnement-de-rennes)
   
-a- Les grands principes qui régissent le fonctionnement de l'écosystème Terre :
+### a- Les grands principes qui régissent le fonctionnement de l'écosystème Terre :
 
 - la Terre est un système fini, limité et non extensible (ressources naturelles / énergétiques / surfaces habitables des différentes espèces...)
 - "l'écosystème terre" est en non-équilibre dynamique ce qui permet la résilience des écosystèmes
@@ -113,7 +115,7 @@ Plus récemment, à partir de 1998, le biomimétisme en tant que discipline scie
 - **La nature comme mesure** est le principe éthique du  biomimétisme, car il nous indique que la  nature impose des limites ou  des normes éthiques sur ce qu’il est  possible pour nous d’accomplir.
 - **La nature comme mentor** est le principe épistémologique de  biomimétisme, car il argue que la  nature est la source de la vérité, de  la sagesse, de la liberté de  l’erreur ou  envisager la nature comme source de sagesse et de connaissances fondé sur la liberté de "l'essai-erreur" - repenser notre place dans l'écosystème Terre avec humilité
 
-### e-Les principes du vivant 3.8 (Biomimicry)** **sur lesquels s’appuyer:**
+### e- Les principes du vivant 3.8 (Biomimicry)** **sur lesquels s’appuyer:**
 
 - **Évoluer pour survivre**
 
