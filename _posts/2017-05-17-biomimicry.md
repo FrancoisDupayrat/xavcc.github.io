@@ -1,18 +1,18 @@
-# Biomimicry Land
+---
+layout: post
+title : "Biomimicry Land : Documentation collective d'un Workshop à L'Université des Technologies de Compiègne"
+date: 2017-05-17
+categories: ["biomimicry"]
+---
 
+ Toute cette journée fut documentée par les participants dans ce pad (photo, texte, vidéo, tuto ect.)
 ![Bannière de l’événement facebook](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1494066253779_file.jpeg)
-
-
-**Documentation de la Journée d'expérimentation sur le biomimétisme**
- Toute cette journée sera documentée par les participants dans ce pad (photo, texte, vidéo, tuto ect.)
 
 18 mai 2017 - Université de Technologie de Compiègne - 12h30 18h30
 
 *Venez hacker le vivant*
 
-INSCRIPTIONS : https://docs.google.com/forms/d/e/1FAIpQLSfoXWrzQSdU_Sl6YvaiZGTjDxfBops1p_E-1B-v_RzfJxZJqw/viewform
-
-Exemple précédent, 10 mai aux ingénieurs à Rennes École des métiers de l'environnement : +Journée biomimétisme EME Rennes 
+Exemple précédent, 10 mai 2017 aux ingénieurs à Rennes École des métiers de l'environnement : Journée biomimétisme EME Rennes 
 
 
 ## Matos 
@@ -52,10 +52,7 @@ Les **règles**
 **Le planning**
 
 - 12h30 14h RDV devant le Centre d’Innovation suivie d’une déambulation dans les espaces verts du Campus : s’émerveiller de la Nature pour la protéger puis s’en inspirer
-https://www.youtube.com/watch?v=JQ68y_725Dw&
-
-
-[https://youtu.be/JQ68y_725Dw](https://youtu.be/JQ68y_725Dw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQ68y_725Dw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 - 14h30  18h30 atelier biomimétisme learning by doing “s’initier en pratiquant collaborativement”  par petit groupe en autogestion qui choisissent une thématique
@@ -67,9 +64,7 @@ https://www.youtube.com/watch?v=JQ68y_725Dw&
   - Manipulation de Mycélium de champignon : https://champignonscomestibles.com/clonage-culture-mycelium-carton-champignon
 
 
-
-- 18h30 Master class avec Michel Lallement depuis Lyon organisée par l’éco hacklab la Myne sur l’âge du Faire https://www.facebook.com/events/329300317486078/
-
+- 18h30 Master class en visioconférence avec Michel Lallement depuis Lyon organisée par l’éco hacklab la Myne sur l’âge du Faire https://www.facebook.com/events/329300317486078/
 
 
 
@@ -77,8 +72,7 @@ https://www.youtube.com/watch?v=JQ68y_725Dw&
 
 Début de la journée 
 
-**Présentation de****s** **personnes présentes**
-
+**Présentation des personnes présentes**
 
 - Alix : 4ème année GM biomécanique, membre de Mycélium 
 - Louis : GM, membre de Mycélium
@@ -120,9 +114,6 @@ A voir :
 - et rencontres à Lyon : https://storify.com/ryu5t/biomimetisme-5-l-agora-de-la-clairiere
 
 **Déambulation dans la nature pour inspiration**
-****
-
-
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495566090164_IMG_4071.JPG)
 ![Larve de coccinelle](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495566089609_IMG_4072.JPG)
@@ -137,17 +128,16 @@ On a parlé de bio inspiration
 
 Parlons de bio remediation, les mousses filtrent l’eau, les champignons filtrent les polluants et absorbent les métaux lourd. Deux chercheurs travaillent sur la bio remediation à l’UTC. Antoine Fayeulle travail avec les champignons et Edvina Lamy travail avec les bactéries.
 
-- Voir le wiki du kit à faire soi même:
+- Voir le wiki du kit à faire soi même: http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 
-http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
-
-mimosa pudica https://www.youtube.com/watch?v=BLTcVNyOhUc
+mimosa pudica 
 mouvement avec une énergie frugale
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLTcVNyOhUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 bâtiment inspiré du mvt des végétaux ou formes des plantes : oignon, tournesol,  pomme de pain
 -> tournesol: hormone de la plante migre vers les parties sombres et provoquent la croissance de la plante 
 
-https://speakerdeck.com/xavcc/smart-and-open-cities-biomimicry-based
+<script async class="speakerdeck-embed" data-id="fb1de433bd3f4e859d62585fedf79d4c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 
 [https://speakerdeck.com/xavcc/smart-and-open-cities-biomimicry-based](https://speakerdeck.com/xavcc/smart-and-open-cities-biomimicry-based)
@@ -322,11 +312,11 @@ Propriétés
 Applications
 
 - pneus increvables: "The goal was to reduce the variation in the stiffness of the tire, to make it transmit loads uniformly and become more homogenous," said mechanical engineering professor Tim Osswald. "And the best design, as nature gives it to us, is really the honeycomb."
-  - https://www.youtube.com/watch?v=NtxGa_qY110
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NtxGa_qY110" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - habitat économe
 ![](https://www.mybeeline.co/media/cache/resolve/full/post-content-hex_camp-1024x683.jpg)
 
-- 
+
 ## Groupe Mycélium : 
 
 Alix et Diane
@@ -523,8 +513,6 @@ https://storify.com/XavierCoadic/it-s-kind-of-a-biocolab-story
 # Licence du document
 
 Biomimicry Land UTC de Mycélium, UTC, le biome hacklab, les participants au workshop est mis à disposition selon les termes de la [licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
-Fondé(e) sur une œuvre à +Sans titre .
 Les autorisations au-delà du champ de cette licence peuvent être obtenues à [https://lebiome.github.io](https://lebiome.github.io/).
 
-     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Biomimicry Land UTC</span> de <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Mycélium, UTC, le biome hacklab, les participants au workshop</span> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.<br />Fondé(e) sur une œuvre à <a xmlns:dct="http://purl.org/dc/terms/" href="+Sans titre " rel="dct:source">+Sans titre </a>.<br />Les autorisations au-delà du champ de cette licence peuvent être obtenues à <a xmlns:cc="http://creativecommons.org/ns#" href="https://lebiome.github.io" rel="cc:morePermissions">https://lebiome.github.io</a>.
 
