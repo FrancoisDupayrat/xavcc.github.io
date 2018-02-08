@@ -12,7 +12,7 @@ categories: ["biomimicry"]
 
 *Venez hacker le vivant*
 
-Exemple précédent, 10 mai 2017 aux ingénieurs à Rennes École des métiers de l'environnement : Journée biomimétisme EME Rennes 
+Exemple précédent, 10 mai 2017 aux ingénieurs à Rennes École des métiers de l'environnement : [Journée biomimétisme EME Rennes](https://xavcc.github.io/biomimicry/2017/05/10/biomimicry.html)
 
 
 ## Matos 
