@@ -73,25 +73,24 @@ Groupe d'environ 12 personnes
 - les bactéries sont à l'origine de tout élément vivant - nous sommes vivants au même titre que n'importe quelle autre espèce 
 - le soleil est la source d’énergie principale qui permet la vie grâce à l'intervention (entre autre) des Chloroplastes et cyanobactéries qui rejettent l'oxygène comme déchet
 - les deux grandes boucles planétaires qui régissent l'écosystème terre : 
+```
       **la photosynthèse** = absorbe du CO2 et rejette de l'O2
       **la respiration** = absorbe de l'O2 et rejette du CO2
-
+```
  
 ### b- Le temps du déploiement du vivant :
 
 Si l'histoire de la terre était ramenée à 1 année alors le calendrier s'organiserait comme cela:
-```
-        1/01: naissance de la terre
-        1/03: émergence de la vie bactérienne
-        16/08: explosion des multicellulaires
-        20/11: apparition des premiers poissons
-        22/11: apparition des premières plantes terrestres
-        13/12 : apparition des premiers mamifères
-        20/12 : apparition des premières plantes à fleurs
-        31/12 à 23h54 : apparition de l' homo sapiens
-        31/12 à 23h59' 59" : révolution industrielle... 
-        soit 1 seconde comparable aux 5 extinctions massives répertoriées et qui aurait été déclenchée par 1 seule espèce ?
-```
++ 1/01: naissance de la terre
++ 1/03: émergence de la vie bactérienne
++ 16/08: explosion des multicellulaires
++ 20/11: apparition des premiers poissons
++ 22/11: apparition des premières plantes terrestres
++ 13/12 : apparition des premiers mamifères
++ 20/12 : apparition des premières plantes à fleurs
++ 31/12 à 23h54 : apparition de l' homo sapiens
++ 31/12 à 23h59' 59" : révolution industrielle... soit 1 seconde comparable aux 5 extinctions massives répertoriées et qui aurait été déclenchée par 1 seule espèce ?
+
         
  
 ### c- Les origines (quoi? où? comment?)
