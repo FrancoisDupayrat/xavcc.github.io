@@ -5,7 +5,7 @@ date: 2017-05-17
 categories: ["biomimicry"]
 ---
 
- Toute cette journée fut documentée par les participants dans ce pad (photo, texte, vidéo, tuto ect.)
+ Toute cette journée fut documentée par et avec les participant.e.s (photo, texte, vidéo, tuto ect.)
 ![Bannière de l’événement facebook](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1494066253779_file.jpeg)
 
 18 mai 2017 - Université de Technologie de Compiègne - 12h30 18h30
