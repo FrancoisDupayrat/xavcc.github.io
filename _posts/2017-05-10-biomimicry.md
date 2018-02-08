@@ -5,11 +5,10 @@ date: 2017-05-10
 categories: ["biomimicry"]
 ---
 
-Cours du 10.05.2017 au ingénieur.e.s diplomé.e.s suivant un cursus supplémentaire de Mastère en éco-conception au format workshop
-
+Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s en un cursus supplémentaire de Mastère en éco-conception.
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494410631779_file.jpeg)
 
-Ces notes sont issues d'un écriture collaborativ entres 2 enseignants et les groupes d'apprenant.e.s réalisées en live pendant le cours.
+Ces notes sont issues d'un écriture collaborativ entres 2 enseignants et les groupes d'apprenant.e.s réalisées en live pendant le cours au format workshop. 
 
 ## Les objectifs pédagogiques principaux:
 - autonomie
