@@ -26,7 +26,7 @@ Ces notes sont issues d'un écriture collaborativ entres 2 enseignants et les gr
 - [Master Class 2016](https://lebiome.github.io/#LeBiome/community/tree/master/Master_Class)
 - [Initiation au biomimétisme](https://lebiome.github.io/#LeBiome/community/blob/master/initiation_biomimetisme.md)  
 - [Open source circular economy days 2015](https://oscedays.org/rennes-2015/)
-=
+
 
 **JOURNEE BIOMIMÉTISME EME RENNES - 10 MAI 2017**
 9h-18h campus de Ker Lann
@@ -80,6 +80,7 @@ Groupe d'environ 12 personnes
 ### b- Le temps du déploiement du vivant :
 
 Si l'histoire de la terre était ramenée à 1 année alors le calendrier s'organiserait comme cela:
+```
         1/01: naissance de la terre
         1/03: émergence de la vie bactérienne
         16/08: explosion des multicellulaires
@@ -88,8 +89,10 @@ Si l'histoire de la terre était ramenée à 1 année alors le calendrier s'orga
         13/12 : apparition des premiers mamifères
         20/12 : apparition des premières plantes à fleurs
         31/12 à 23h54 : apparition de l' homo sapiens
-        31/12 à 23h59' 59" : révolution industrielle... soit 1 seconde comparable aux 5 extinctions massives répertoriées et qui aurait été déclenchée par 1 seule espèce ?
-
+        31/12 à 23h59' 59" : révolution industrielle... 
+        soit 1 seconde comparable aux 5 extinctions massives répertoriées et qui aurait été déclenchée par 1 seule espèce ?
+```
+        
  
 ### c- Les origines (quoi? où? comment?)
 **Le biomimétisme c'est quoi?**
@@ -107,14 +110,15 @@ Puis la question « profonde » de ce que la nature est en définitive fût trai
 A ce titre, l’[écopsychologie ,](http://eco-psychologie.com/definitions-de-l-ecopsychologie/) ayant émergé dans les années 90 aux Etats-Unis et encore peu connue en France, tend à remettre le lien primal entre l’humain et la nature au centre du champ de réflexion, en vue de trouver le chemin vers la reconnexion de l’individu avec son environnement naturel. L’objectif étant de remédier à nos addictions et excès induits par nos sociétés modernes (excès de consommation / de technologie…) et de pouvoir ré-actionner les leviers inconscients qui nous permettront de renouer avec le sauvage et d’agir pour la protection de notre “Terre Mère“. L’écopsychologie s’inspire en partie de la “ Théorie Gaïa ” : [selon la théorie GAÏA (1974) la vie crée et entretient les conditions propices à la vie](https://fr.wikipedia.org/wiki/Th%C3%A9ories_Ga%C3%AFa).
  
 Plus récemment, à partir de 1998, le biomimétisme en tant que discipline scientifique est démocratisé par [Janine Benyus](https://fr.wikipedia.org/wiki/Janine_Benyus) qui en définit les trois principes de base: 
-**"comment s'inspirer des organismes vivants pour être durable (grâce aux principes du vivant) et accélérer la créativité pour agir plus rapidement dans les transitions à faire-le biomimétisme ou le chemin de la survie" // selon Janine Benyus**
+
+> "comment s'inspirer des organismes vivants pour être durable (grâce aux principes du vivant) et accélérer la créativité pour agir plus rapidement dans les transitions à faire-le biomimétisme ou le chemin de la survie"  _selon Janine Benyus_
 
 
 - **La nature comme modèle** est le principe poétique de  biomimétisme, car il nous raconte comment les choses doivent être idéalement "mises au monde"    
 - **La nature comme mesure** est le principe éthique du  biomimétisme, car il nous indique que la  nature impose des limites ou  des normes éthiques sur ce qu’il est  possible pour nous d’accomplir.
 - **La nature comme mentor** est le principe épistémologique de  biomimétisme, car il argue que la  nature est la source de la vérité, de  la sagesse, de la liberté de  l’erreur ou  envisager la nature comme source de sagesse et de connaissances fondé sur la liberté de "l'essai-erreur" - repenser notre place dans l'écosystème Terre avec humilité
 
-### e- Les principes du vivant 3.8 (Biomimicry)** **sur lesquels s’appuyer:**
+### e- Les principes du vivant 3.8 (Biomimicry) sur lesquels s’appuyer :
 
 - **Évoluer pour survivre**
 
@@ -135,15 +139,17 @@ Plus récemment, à partir de 1998, le biomimétisme en tant que discipline scie
 + renforcer sa résilience grâce aux variations, a la redondance/duplication et à la décentralisation
 + inclure la diversité
 
-- **unir le développement et la croissance**
+- **Unir le développement (et la croissance ?)**
 
-// ou décroissance et frugalité ? 
+_ou décroissance et frugalité ? _
+
 *effectivement la notion de croissance est à remettre dans son contexte de 1997 soit 20 ans en arrière! et la notion de "croissance" au sens littéral (grandir) est à envisager dans la perspective de croître jusqu'au point maximum soutenable par son environnement avant de passer à la "reproduction / duplication"*
+
 + combiner des composants modulaires et emboités
 + construire de bas en haut (bottom-up)
 + s'auto-organiser
 
-- **être connecté et réactif aux conditions locales**
+- **Être connecté et réactif aux conditions locales**
 
 + utiliser l'énergie et les matériaux locaux/facilement accessibles
 + cultiver les relations de coopération
@@ -154,17 +160,18 @@ Plus récemment, à partir de 1998, le biomimétisme en tant que discipline scie
 
 construire en utilisant une sélection réduite d'éléments (carbone, oxygène...) décomposer ses produits en composés bénins/inoffensifs, pratiquer la chimie dans l'eau 
 
-### f-Les diverses façons d'appliquer les principes du biomimétisme :
+### f- Les diverses façons d'appliquer les principes du biomimétisme :
 
 - **imitation des formes: quel design?** "la forme suit la fonction" avec analyse du contexte opérationnel car les contraintes conditionnent les partis-pris - c'est ce qui à le moins d'influence sur la durabilité (maxi 10%) pour gagner en aéro/hydrodynamisme ou en résistance...
 - **imitation des matériaux: quel procédés?** à réaliser à T° et pression ambiante (chimie froide) et avec l'eau comme unique solvant + avec une source d'énergie durable (soleil/photosynthèse-vent-courant...) différent du "Heat-Beat & Treat" que nous utilisons systématiquement
 - **s'inspirer du fonctionnement des écosystèmes: quelle relation?** pour concevoir des organisations durables et résilientes* en se basant sur les principes de coopération / sur le respect de la diversité/ sur l'optimisation (plutôt que la maximisation) et sur l'approvisionnement local
 
-***définition de la résilience:**
+**définition de la résilience:**
+
 Capacité d'un matériau ou d'un système à s'adapter au sein d'une forme générique donnée en conservant son intégrité initiale avant d'en franchir le seuil. Le franchissement du seuil génère une nouvelle identité et implique donc la sortie de la résilience
 
 Chez un organisme, une espèce ou un écosystème  il s'agit  d’être en capacité de résister et de surmonter des perturbations importantes (catastrophe naturelle, ou technologique, marée  noire, etc.) pour retrouver un fonctionnement normal. 
-La résilience est en général fonction de la diversité et de la complexité des écosystèmes et du patrimoine génétique des individus. Plus la diversité est élevée au sein d'un espèce ou d'un écosystème, plus la résilience, à une pandémie par exemple, sera élevée.  Plus une espèce à des interaction symbiotiques avec d'autres espèces plus elle a de chance de pérennité  ( cf [les travaux d'Er](https://lejournal.cnrs.fr/articles/eric-karsenti-le-biologiste-et-la-mer)[i](https://lejournal.cnrs.fr/articles/eric-karsenti-le-biologiste-et-la-mer)[c Karsenti sur les données génétiques des planctons](https://lejournal.cnrs.fr/articles/eric-karsenti-le-biologiste-et-la-mer)  )
+La résilience est en général fonction de la diversité et de la complexité des écosystèmes et du patrimoine génétique des individus. Plus la diversité est élevée au sein d'un espèce ou d'un écosystème, plus la résilience, à une pandémie par exemple, sera élevée.  Plus une espèce à des interaction symbiotiques avec d'autres espèces plus elle a de chance de pérennité  ( cf [les travaux d'Eric Karsenti sur les données génétiques des planctons](https://lejournal.cnrs.fr/articles/eric-karsenti-le-biologiste-et-la-mer)
 
 >  Prévoir ???
 
@@ -188,7 +195,7 @@ Les espèces d’animaux redondantes sont celles qui exercent la même fonction 
 Une chose également importante à préciser :  Dans "sur l'origine des espèces" (ou la théorie de l'évolution) de Charles Darwin il est souligné que l’évolution se fait par sélection naturelle, ce sont les animaux **les plus adaptés à leur milieu** qui survivent. Ce sont donc eux qui auront le plus de chance de se reproduire, et donc de transmettre leurs gènes. Il n'est donc pas question de loi du plus fort ou de compétition...
 L'entraide est la seconde loi de la jungle:  si la pénurie arrive, alors la collaboration s'installe instinctivement.
 
-Le taux de retour énergétique ou TRE ou EROI energy return on investment - mesure le rapport entre la quantité d'energie utilisée par rapport à celle dépensée pour l'obtenir. plus on se rapproche de 1 et plus l'investissement est discutable/ passé sous la barre des 1- l'opération devient injustifiéé énergétiquement parlant (sables bitumineux = TRE 3)
+Le taux de retour énergétique ou TRE ou EROI energy return on investment - mesure le rapport entre la quantité d'energie utilisée par rapport à celle dépensée pour l'obtenir. plus on se rapproche de `1` et plus l'investissement est discutable/ passé sous la barre des `1`, l'opération devient injustifiéé énergétiquement parlant (sables bitumineux = TRE 3).
 
 ### g- Ceci nous amène à distinguer les notions :
 
@@ -217,20 +224,19 @@ Le taux de retour énergétique ou TRE ou EROI energy return on investment - mes
 
 - l'inspiration de la nature remets en question d'idée de propriété intellectuelle du concept
 - l'utilisation du vivant dans les procédés implique un rapport à l'éthique (respect du vivant)
-- avoir une approche transversale et transdisciplinaire dans la gestion des projets , *« Il faut sortir des silos, penser « out of the box », déformer les schémas de pensée, oser collaborer et remettre en cause des business models installés, amortis… On passe alors de* ***l’approche anatomique*** *– la description du comment – à* ***une approche fonctionnelle*** *– l’analyse du pourquoi. »
+- avoir une approche transversale et transdisciplinaire dans la gestion des projets , *« Il faut sortir des silos, penser « out of the box », déformer les schémas de pensée, oser collaborer et remettre en cause des business models installés, amortis… On passe alors de **l’approche anatomique** - la description du comment - à **une approche fonctionnelle** – l’analyse du pourquoi. »
 
 ### K- Quelques exemples concrets d'application ou “comment passer du modèle du vivant inspirant à la modélisation technologique ?”
 
 - **La denticule de requin**:
 
 Les premiers requins sont apparus il y a un peu plus de 400 millions d’années durant le dévonien et ils sont toujours là aujourd’hui, preuve que certaines de leurs caractéristiques évolutives ont été des succès dans le grand jeu de l’innovation de la vie. Pour preuve, la peau des requins est formée de denticules dont la forme et l’agencement empêchent les bactéries et les parasites de pouvoir se fixer en créant une surface instable. C’est en quelque sorte un répulsif bactérien naturel. C’est donc en étudiant au microscope la peau des requins que des chercheurs ont eu l’idée de copier celle-ci afin d’adapter l’innovation de la nature au domaine médical. Imaginez des murs d’hôpitaux enduits d’un revêtement qui peut réduire de 80 % la prolifération d’une bactérie comme E. coli! Les denticules améliorent également l'hydrodynamisme car l'eau s'engouffre dans ces micro-rainures et engendrent de minuscules tourbillons, ou remous verticaux, qui maintiennent alors l'eau près du corps de l'animal. Cela diminue l'effet de résistance du fluide. Le phénomène est connu sous le nom de l'effet Riblet. Ces surfaces rainurées permettent un ralentissement de l'écoulement de l'eau sur la peau et donc un frottement plus faible lors de la nage.
-(photo en appui requin=ok / denticule = pas de photo libre-sourcée)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQNnoEYen_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/70df5e98f262149dd91705ddab0fc8a5/denticule-combi_speedo_LZR_racer_.jpg)
 
-- **Poisson-coffre** pour un véhicule Mercedes (forme= espace et peu énergivore)  [https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
+- **Poisson-coffre** pour un véhicule Mercedes (forme= espace et peu énergivore): [Mercedes Benz Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
 
 les concepteurs de chez Mercedes se sont inspirés du poisson coffre, ce poisson qui vit dans les coraux des eaux tropicales, est un excellent modèle pour l’élaboration d’un véhicule à la structure légère et à l’aérodynamisme stupéfiant.
 Le poisson coffre peut nager très vite (six fois la longueur de son corps chaque seconde) sa rapidité n’est pas uniquement due à sa force. Mais c’est paradoxalement sa forme cubique qui améliore ses qualités aérodynamiques.
@@ -285,19 +291,21 @@ et la [production de verre à basse température.](http://www2.cnrs.fr/presse/co
 - **URBANISME**/ architecture bio-inspirée** de Luc SCHUITEN en discussion
 
 
-## 2-SPRINT "brise glace" QUEL EST MON RAPPORT AU VIVANT?  (15")**
+## 2-SPRINT "brise glace" QUEL EST MON RAPPORT AU VIVANT?  (15")
 
 
-**Sortie dehors / immersion nature si le temps le permet?**
+**Sortie dehors / immersion nature**
+
 ramener l'émerveillement par la découverte des "super-pouvoirs" de la nature!
 “Le toucher est le plus démystificateur de tous les sens, à la différence de la vue, qui est le plus magique. ” 
-Possibilité d’organiser un petit "intermède" sur ce que nous évoquent 
-**LE** **TOUCHER/** gluant/ le piquant / le velu  
-**LA VUE**  le grouillant/ le noir / le "moche" 
-**L'ODORAT** :nauséabond ou doux, agréable
-**L'OUIE** cris "lugubres" .... (base de photo + échange ouvert rapide)
 
-+ Ref : Roland Barthes [“Le langage est une peau : je frotte mon langage contre l’autre”]([http://evene.lefigaro.fr/celebre/biographie/roland-barthes-597.php)(http://evene.lefigaro.fr/celebre/biographie/roland-barthes-597.php%29) / Mythologies 
+Possibilité d’organiser un petit "intermède" sur ce que nous évoquent :
++ **LE** **TOUCHER/** gluant/ le piquant / le velu  
++ **LA VUE**  le grouillant/ le noir / le "moche" 
++ **L'ODORAT** :nauséabond ou doux, agréable
++ **L'OUIE** cris "lugubres" .... (base de photo + échange ouvert rapide)
+
++ Ref : Roland Barthes [“Le langage est une peau : je frotte mon langage contre l’autre”]([http://evene.lefigaro.fr/celebre/biographie/roland-barthes-597.php) // Mythologies 
 
 ![Sortie dans le jardin de l'école pour un warm-up et découverte des potentiels de la biodiversité locale](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494410655544_file.jpeg)
 
@@ -313,32 +321,33 @@ Possibilité d’organiser un petit "intermède" sur ce que nous évoquent
 
 **(5-6 personnes)  (15" maxi)**
 
-organisation de chaque groupe avec : 1 animateur /1 gardien du temps / 1 rapporteur pour la documentation / 1 maquetteur / 1 pitcheur pour la restitution
+organisation de chaque groupe avec : 
+1 animateur 1 gardien du temps | 1 rapporteur pour la documentation | 1 maquetteur | 1 pitcheur pour la restitution
 
 **objectifs :**
-      - manip' courtes / obligation de moyens (pas de résultat) pour "learning by doing"
-      - se confronter à sa zone "d'ignorance" 
-      - imagination et innovation pour co-création
-      - documentation collaborative à alimenter au fur et à mesure
-      - prototypage rapide pour co-réalisation
-      - découverte/apprentissage et émerveillement "dans ce cas précis que ferait la nature?"
+- manip' courtes / obligation de moyens (pas de résultat) pour "learning by doing"
+- se confronter à sa zone "d'ignorance" 
+- imagination et innovation pour co-création
+- documentation collaborative à alimenter au fur et à mesure
+- prototypage rapide pour co-réalisation
+- découverte/apprentissage et émerveillement "dans ce cas précis que ferait la nature?"
   
  **Matériel nécessaire pour chaque équipe :**
-      - Tableau
-      - post-it de différentes couleurs
-      - feutres
-      - feuilles brouillons A4
-      - feuilles grand format (paper board ou autre)
-      - Captation vidéo pour restitution
-      - posca
+- Tableau
+- post-it de différentes couleurs
+- feutres
+- feuilles brouillons A4
+- feuilles grand format (paper board ou autre)
+- Captation vidéo pour restitution
+- posca
 
 **Indications possibles à donner aux participants:**
-a-déterminer la problématique principale / les enjeux sous-jascents / les fonctions auxquelles répondre?
-b- comment y répondriez-vous ? (en vous basant sur votre imagination / vos connaissances et votre intuition...)
-c-comment fait la nature pour résoudre ce type de problématique? observer la nature (connaissances personnelles - Ask Nature / sortie dehors...)
-d- décrivez les stratégies du vivant qui répondent le mieux à ces enjeux (documentez votre réflexion et vos analyses)
-e- définissez une mise en œuvre possible de ces stratégies du vivant appliquée à votre problématique de départ 
-f- envisagez les enjeux et rayonnements possible de cette nouvelle application
+a. déterminer la problématique principale / les enjeux sous-jascents / les fonctions auxquelles répondre?
+b. comment y répondriez-vous ? (en vous basant sur votre imagination / vos connaissances et votre intuition...)
+c. comment fait la nature pour résoudre ce type de problématique? observer la nature (connaissances personnelles - Ask Nature / sortie dehors...)
+d. décriver les stratégies du vivant qui répondent le mieux à ces enjeux (documentez votre réflexion et vos analyses)
+e. définisser une mise en œuvre possible de ces stratégies du vivant appliquée à votre problématique de départ 
+f. envisager les enjeux et rayonnements possible de cette nouvelle application
 
 **LES THÉMATIQUES DU WORKSHOP:**
 
@@ -366,13 +375,13 @@ Restitution:
 
     
 ## THEME 2 : Sortir de l'économie pétrosourcée
- **Problématique de départ:**
+Problématique de départ:
  
  **Comment fabriquer à partir de "bio-matériaux" ?**
  **À partir de l’observation du scoby** (compréhension de la matière et du process pour en dessiner le cycle de vie avec ré investissement dans la biosphère) 
 
 Symbiotic Conoy Of Bacteria and yeast : [https://openbiofabrics.github.io/](https://openbiofabrics.github.io/)
-voir : [https://oscedays.org/rennes-2015/](https://oscedays.org/rennes-2015/) notamment schéma final
++ voir : [https://oscedays.org/rennes-2015/](https://oscedays.org/rennes-2015/) notamment schéma final duhackathon
 
 Facilitation :  1 personne à temps partiel sur 3h        
 
@@ -383,7 +392,7 @@ Matériel complémentaire nécessaire:
 - Internet
 - Microscope ???
 - Gants en latex 
-- mallette Xavier    (pinces/ …)
+- mallette Xavier (pinces/ …)
 
 Restitution:  
 
@@ -392,9 +401,11 @@ Restitution:
 
         
 ## THEME 3 : Energie
- **Problématique de départ:**
+Problématique de départ:
+ 
  **Comment transposer une autre façon d'utiliser de l'énergie ?**
- **A partir de** **l’observation et de la manipulation de Mimosa Pudica**
+ 
+ _À partir de l’observation et de la manipulation de Mimosa Pudica_
  
 > "Vendez moi de la lumière pas une ampoule" ( penser = économie de fonctionnalité?)
 
@@ -411,12 +422,11 @@ Restitution:
 
 - documentation sur le PAD collaboratif
 - Pitch du projet en fin de journée
-
- 
     
 ## THEME 4: se soigner
 
 Problématique de départ:  
+
 **Comment se soigner de façon durable?**
 A partir de la collecte d'informations sur le ver marin arénicole et sur les spécificités de la peau de requin sur le net, 
 [H](http://www.hemarina.com/index.php?rub=ver_de_sang)[emarina](http://www.hemarina.com/index.php?rub=ver_de_sang) - l'arénicole 
@@ -435,17 +445,17 @@ Restitution:
     
 
 ## THEME 4: se Nourrir
-
 Problématique de départ: 
+
 **Comment concevoir un système de production alimentaire sur le site de l'école qui soit  inspiré de l'écosystème de la forêt?**
 
-A partir de recherches sur le web, et en étudiant et observant les interactions de l'écosystème  de la forêt il s'agira de modéliser les flux d'informations, de matières et d' énergie qui régissent  un système résilient.
+À partir de recherches sur le web, et en étudiant et observant les interactions de l'écosystème  de la forêt il s'agira de modéliser les flux d'informations, de matières et d' énergie qui régissent  un système résilient.
 
 Facilitation :  1 personne à temps partiel sur 3h    
 
 Matériel complémentaire nécessaire:  
 
-+  ordinateur
++ ordinateur
 + kit de prise de notes
 + pad collaboratif
 + kit de maquettage
@@ -535,14 +545,14 @@ https://www.dropbox.com/s/crmtp4qsys74916/BIOMIMETISME.docx?dl=0
 )_
 
 
-
 ### THÈME 2:   sortir de l'économie pétrosourcée**
 
- **Problématique de départ:  **comment fabriquer à partir de "bio-matériaux" ?**
+ **Problématique de départ: comment fabriquer à partir de "bio-matériaux" ?**
  
 [Ré-écouter la présentation de Scoby](https://www.dropbox.com/s/36ns6yxy9ed5giv/Scoby.m4a?dl=0)
 
 Symbiotic Colony Of Bacteria and yeast : [https://openbiofabrics.github.io/](https://openbiofabrics.github.io/)
+
 Observation du scoby, compréhension de la matière et du process pour en dessiner le cycle de vie avec ré investissement dans la biosphère.
 voir : [https://oscedays.org/rennes-2015/](https://oscedays.org/rennes-2015/) notamment schéma final
 
