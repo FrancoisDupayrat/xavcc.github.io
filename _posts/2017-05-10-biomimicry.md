@@ -29,8 +29,11 @@ Ces notes sont issues d'un écriture collaborativ entres 2 enseignants et les gr
 
 
 **JOURNEE BIOMIMÉTISME EME RENNES - 10 MAI 2017**
+
 9h-18h campus de Ker Lann
+
 Public: Bac+5 master
+
 Groupe d'environ 12 personnes
 
 
@@ -74,8 +77,8 @@ Groupe d'environ 12 personnes
 - le soleil est la source d’énergie principale qui permet la vie grâce à l'intervention (entre autre) des Chloroplastes et cyanobactéries qui rejettent l'oxygène comme déchet
 - les deux grandes boucles planétaires qui régissent l'écosystème terre : 
 ```
-      **la photosynthèse** = absorbe du CO2 et rejette de l'O2
-      **la respiration** = absorbe de l'O2 et rejette du CO2
+      la photosynthèse = absorbe du CO2 et rejette de l'O2
+      la respiration = absorbe de l'O2 et rejette du CO2
 ```
  
 ### b- Le temps du déploiement du vivant :
