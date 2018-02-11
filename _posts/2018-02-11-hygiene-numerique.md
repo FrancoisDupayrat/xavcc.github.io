@@ -5,7 +5,9 @@ date: 2018-02-11
 categories: ["science"]
 ---
 
-Les technologies, notamment celles du numérique, sont un processus d'apprentissage et un processus permanent. L'acquisition de connaissances passe par l'expérimentation. Le reste est de l'information. Faire de la médiation, coder, vulgariser, expliquer, tester, déployer, utiliser, ne sont que des effets de bord du processus d'apprentissage. Ce processus et l'acquisation de connaissance, comme leur diffusion, reposent en partie sur la communication. Se pencher sur une hygiène de communication semble être un prérequis aux libertés numérique avant même d'évoquer les pratiques ou la sécurité. Il s'agit de savoir être, de comportement, de considération d'autrui, afin d'éviter du bruit et des pollutions marketing. Pour apprendre et communiquer nous avons plus besoin de livres dans nos boites à lettre que de prospectus.
+Les technologies, notamment celles du numérique, sont un processus d'apprentissage et un processus permanent. L'acquisition de connaissances passe par l'expérimentation. Le reste est de l'information. Faire de la médiation, coder, vulgariser, expliquer, tester, déployer, utiliser, ne sont que des effets de bord du processus d'apprentissage. Ce processus et l'acquisation de connaissance, comme leur diffusion, reposent en partie sur la communication. 
+
+Se pencher sur une hygiène de communication semble être un prérequis aux libertés numériques avant même d'évoquer les pratiques ou la sécurité. Il s'agit de savoir être, de comportement, de considération d'autrui, afin d'éviter le bruit et des pollutions marketing. Pour apprendre et communiquer nous avons plus besoin de livres dans nos boites à lettre que de prospectus. 
 
 ![](https://visualhunt.com/photos/l/6/tree-face-mystical-funny-tree-stump-creepy-weird.jpg "License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication")
 
