@@ -25,7 +25,7 @@ Daniel Lee Croker est notamment connu pour avoir réécrit le logiciel sous-jace
 
 1. Cet article est sous licence libre. Vous pouvez le réutiliser librement en respectant les indications que vous trouverez en cliquant sur l'icone noire et blanche en bas à gauche.
 2. Nous pouvons discuter, communiquer, contribuer ensemble [ICI](https://github.com/XavCC/xavcc.github.io/issues) parmi d'autres possibilités.
-3. Vous pouvez aussi contribuer en faisant un don en cliquant sur l'icone jaune en bas à droite. Cela me parait plus agréable que de payer pour de la pollution et du marketing "digital" ou des ressources non libres.
+3. Vous pouvez aussi contribuer en faisant un don en cliquant sur l'icone jaune en bas à droite. Cela me paraît plus agréable que de payer pour de la pollution et du marketing "digital" ou des ressources non libres.
 4. Les autres articles sur l'hygiène numérique sont "[surfez mieux équipé.e.s](https://xavcc.github.io/hsociety/2018/01/08/hygiene-numerique.html)" et "[écologie du temps et préservation de l'attention](https://xavcc.github.io/hsociety/2018/01/15/hygiene-num%C3%A9rique.html)".
 
 
