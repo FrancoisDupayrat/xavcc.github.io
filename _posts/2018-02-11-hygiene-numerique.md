@@ -2,7 +2,7 @@
 layout: post
 title: "hygiène numérique 3 : communiquer, communiquez"
 date: 2018-02-11
-categories: ["science"]
+categories: ["hsociety"]
 ---
 
 Les technologies, notamment celles du numérique, sont un processus d'apprentissage et un processus permanent. L'acquisition de connaissances passe par l'expérimentation. Le reste est de l'information. Faire de la médiation, coder, vulgariser, expliquer, tester, déployer, utiliser, ne sont que des effets de bord du processus d'apprentissage. Ce processus et l'acquisation de connaissance, comme leur diffusion, reposent en partie sur la communication. 
