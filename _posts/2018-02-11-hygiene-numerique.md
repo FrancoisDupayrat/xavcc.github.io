@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "hygiène numérique 3 : communiquer, communiquez"
-date: 20018-02-11
+date: 2018-02-11
 categories: ["science"]
 ---
 
