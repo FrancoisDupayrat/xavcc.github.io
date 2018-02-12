@@ -143,7 +143,7 @@ Plus récemment, à partir de 1998, le biomimétisme en tant que discipline scie
 
 - **Unir le développement (et la croissance ?)**
 
-_ou décroissance et frugalité ? _
+_ou décroissance et frugalité ?_
 
 *effectivement la notion de croissance est à remettre dans son contexte de 1997 soit 20 ans en arrière! et la notion de "croissance" au sens littéral (grandir) est à envisager dans la perspective de croître jusqu'au point maximum soutenable par son environnement avant de passer à la "reproduction / duplication"*
 
@@ -443,7 +443,7 @@ Restitution:
 - documentation sur le PAD collaboratif
 - Pitch du projet en fin de journée
     
-    OU
+**OU**
     
 
 ## THEME 4: se Nourrir
@@ -490,9 +490,6 @@ Objectif: booster l’esprit d’équipe et la réflexion-action avant le démar
 
 ## 5- Démarrage des ateliers (3-4h)
 
-  
-  
-
 ## 6-Restitution commune et retour d'expérience en fin de session (de 16h à 18h) 
 
 - état d'avancement du projet
@@ -520,7 +517,7 @@ Objectif: booster l’esprit d’équipe et la réflexion-action avant le démar
 ## Les 3 équipes formées :
 
 
-### THEME 1: Habitat “comment loger 9 milliards d’êtres humains sans abîmer la planète?”**
+### THEME 1: Habitat “comment loger 9 milliards d’êtres humains sans abîmer la planète?”
 
 **A partir de l’observation et de l’extrapolation du modèle du Baobab**
 [Ré-écouter la présentation de Baobuild](https://www.dropbox.com/s/pchzrzmoilzi69j/Baobab.m4a?dl=0)
@@ -540,16 +537,18 @@ Dessiner un bâtiment :
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_D0DC0B58E92F2BEE8308CF3BAE7C1914F25495BA12FC6127952FD3B8F569B894_1494489351120_20170511_0948231.jpg)
 
 
-Voir également : _workshop "comment loger 9 milliards d'êtres humains sans abimer la planète" #3 
+Voir également : _workshop "comment loger 9 milliards d'êtres humains sans abimer la planète_" #3 
 + Workshop biomimicry Rennes 01/04/15 
 + [#BretagneLabTour] Atelier de design thinking & biomimétisme sur l'habitat : [ICI](
 https://www.dropbox.com/s/crmtp4qsys74916/BIOMIMETISME.docx?dl=0
 )_
 
 
-### THÈME 2:   sortir de l'économie pétrosourcée**
+### THÈME 2:   sortir de l'économie pétrosourcée
 
- **Problématique de départ: comment fabriquer à partir de "bio-matériaux" ?**
+Problématique de départ: 
+
+**Comment fabriquer à partir de "bio-matériaux" ?**
  
 [Ré-écouter la présentation de Scoby](https://www.dropbox.com/s/36ns6yxy9ed5giv/Scoby.m4a?dl=0)
 
@@ -574,7 +573,7 @@ Lien vers travail groupe : SCOBY [](https://paper.dropbox.com/doc/SCOBY-kQKstu8n
 
 ### THEME 5: mobilité 
 
-**“comment s’inspirer de “l’algorithme des fourmis” pour optimiser les flux de déchets à l’échelle du territoire ?”
+**“comment s’inspirer de “l’algorithme des fourmis” pour optimiser les flux de déchets à l’échelle du territoire ?”**
 
 [Ré-écouter la présentation des fourmis](https://www.dropbox.com/s/ihfrc1qzo0bt4by/Fourmi%20Poubelle.m4a?dl=0)
 A partir de la collecte d’informations sur l’algorithme des fourmis, extrapolez un modèle
@@ -597,7 +596,6 @@ NB: remise en question permanente de l’optimisation du trajet idéal grâce au
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1497972833425_cc_by_sa.png)
 
     
-Cours de biomimetisme EME Rennes de Le Biome HackLab et élèves ingénieurs EME est mis à disposition selon les termes de la [licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
-Fondé(e) sur une œuvre à + Journée biomimétisme EME Rennes 
+Cours de biomimetisme EME Rennes de Le Biome HackLab et élèves ingénieurs EME est mis à disposition selon les termes de la [licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa
 
 
