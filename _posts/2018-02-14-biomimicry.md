@@ -5,7 +5,7 @@ date: 2018-02-14
 categories: ["biomimicry"]
 ---
 
-Le biomimétisme, s'inspirer du vivant et de la nature pour résoudre des défis sociétaux, est un ensemble de disciplines et de pratiques qui a pour dessein d'imiter les matériaux, les formes, les mécanismes et les sytèmes éprouvés par les conditions, les exigences et les contraintes de l'évolution du vivant. Ces véléités d'innovations sont liées aux notions de transfert de processus biologique et / ou physique et / ou chimique dans 
+Le biomimétisme, s'inspirer du vivant et de la nature pour résoudre des défis sociétaux, est un ensemble de disciplines et de pratiques qui a pour dessein d'imiter les matériaux, les formes, les mécanismes et les systèmes éprouvés par les conditions, les exigences et les contraintes de l'évolution du vivant. Ces velléités d'innovations sont liées aux notions de transfert de processus biologique et / ou physique et / ou chimique dans les nouvelles fabrications humaines.
 
 D'après [Otto Herbet Arnold Schmitt](https://fr.wikipedia.org/wiki/Otto_Schmitt) il s'agit de décrire un mode d'exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes. La descritpion est une tâche exigente qui demande de la rigueure.
 
