@@ -37,4 +37,28 @@ Lorsque vous vous consultez des oeuvres, des images, des textes, des sons, dans 
 Je vous invite à consulter l'article de Guillaume Rouan sur [les licences et l'acte de libération des contenus](http://guillaume-rouan.net/blog/2018/02/11/licences-libres-liberez-enfin-vos-contenus/)
 ![](http://guillaume-rouan.net/blog/wp-content/uploads/2018/02/licences_libres_gur_750px.png)
 
-## 
+## Bioinspiration et matériaux
+
+Sylvain Deville est chercheur au "[Ceramic Synthesis and Functionalization Laboratory](http://lsfc.cnrs-mrs.fr/Presentation,85?lang=en)", directeur  CNRS en phyqieu appliquée, travaillant sur l'étude de certains matériaux pour s'en inspirer et concevoir de nouveaux matériaux aux propriétés remarquable.
+
+![/images/Screenshot-2018-2-14 Sylvain Deville.png](/images/Screenshot-2018-2-14 Sylvain Deville.png "capture d'écran du site internet de données publiques de Sylvain Deville")
+
+Il revendique de participer à une [science ouverte](https://figshare.com/authors/Sylvain_Deville/736723) et partagent des images contenant des données de ces travaux sur les biomatériaux sous licence CC BY 4.0 via son [site internet dédié](https://figshare.com/authors/Sylvain_Deville/736723), avec également un [taux de publications ouvertes](https://profiles.impactstory.org/u/0000-0002-3363-3184) de 77 % ,  et des [accès ORCID ou Google scholar](https://sylvaindeville.net/publications) à ses publications. 
+
+## L’ARCHITECTURE BIOCLIMATIQUE EN CLIMAT BOULEVERSÉ
+
+Michèle Turbin, Architecte, licenciée en Histoire de l'Art et Archéologie, était présente au premier forum du Biomimétisme Libre et Open Source à Rennes en septembre 2017 : [Bilios](http://movilab.org/index.php?title=BILIOS%3A_Biomim%C3%A9tisme_Libre_et_Open_Source._Camp_2017). elle à notamment travaillé avec d'autres personnes sur une étude et une défition de l'architecture bioclimatique, dont les notes sont en libre accès sur un [pad collaboratif](https://semestriel.framapad.org/p/bioclimatisme) qui n'pas de licence attribuée à ce jour.
+
+Il s'agit d'un travail avant conception amont de la construction architecturale qui à le fois montre la nécessité de l'effort à fournir avant d'envisager une architecture inspirée du vivant et qui donne également un support, et une matière de travail, pour toute impulsion d'apprentissage ou de fabrication.
+
+## DIY Bio
+
+Do It Yourself, faire soi-même, faire avec d'autres... De la biologie, du biodesign, de la bioinspiration.
+
+Vous avez ,par exemple de ressources à disposition, les efforts de documentations fournis par :
+
++ [Hackteria wiki](http://hackteria.org/wiki/index.php/Main_Page) : Open Source Biological Art, DIY Biology, Generic Laboratory Infrastructure 
++ [OpenWetWare Wiki](https://openwetware.org/wiki/DIYbio/FAQ)
++ Le site [sphere.diybio.org](http://sphere.diybio.org) et le [gitgub associé](https://github.com/olso/sphere) pour y contribuer
++ 
+
