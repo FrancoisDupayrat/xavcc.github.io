@@ -18,7 +18,7 @@ Voici quelques ressources pour procéder, un peu, à l'exercice de ces condition
 
 ## Les libertés et les contenus
 
-Lorsque vous vous consultez des oeuvres, des images, des textes, des sons, dans des formats numériques et dans des formats non numériques, vous vous confrontez aux droits d'auteur et aux devoirs de l'utilisateur. Vous avez alors des degrés de libertés à assumer, la première étant de vous poser des questions légitimes :
+Lorsque vous consultez des oeuvres, des images, des textes, des sons, dans des formats numériques et dans des formats non numériques, vous vous confrontez aux droits d'auteur et aux devoirs de l'utilisateur. Vous avez alors des degrés de libertés à assumer, la première de ces libertés étant de vous poser des questions légitimes :
 
 1. La ressource que je consulte est-elle fiable ?
 2. La ressource est-elle inspectable ? Au sens de pouvoir en faire un exament
