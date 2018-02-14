@@ -39,7 +39,7 @@ Je vous invite à consulter l'article de Guillaume Rouan sur [les licences et l'
 
 ## Bioinspiration et matériaux
 
-Sylvain Deville est chercheur au "[Ceramic Synthesis and Functionalization Laboratory](http://lsfc.cnrs-mrs.fr/Presentation,85?lang=en)", directeur  CNRS en physique appliquée, travaillant sur l'étude de certains matériaux pour s'en inspirer et concevoir de nouveaux matériaux aux propriétés remarquable comme la nacre présente dans les coquillages entre autres.
+Sylvain Deville est chercheur au "[Ceramic Synthesis and Functionalization Laboratory](http://lsfc.cnrs-mrs.fr/Presentation,85?lang=en)", directeur  CNRS en physique appliquée, travaillant sur l'étude de certains matériaux pour s'en inspirer et concevoir de nouveaux matériaux aux propriétés remarquable comme la nacre présente dans les coquillages entre autres. cEs travaux sur le "Freezing" pourront vous être d'une grande utilité si vous vous interressez à l'innovation bioinspirée.
 
 ![/images/Screenshot-2018-2-14 Sylvain Deville.png](/images/Screenshot-2018-2-14 Sylvain Deville.png "capture d'écran du site internet de données publiques de Sylvain Deville")
 
@@ -47,11 +47,11 @@ Il revendique de participer à une [science ouverte](https://figshare.com/author
 
 ## L’ARCHITECTURE BIOCLIMATIQUE EN CLIMAT BOULEVERSÉ
 
-Michèle Turbin, Architecte, licenciée en Histoire de l'Art et Archéologie, était présente au premier forum du Biomimétisme Libre et Open Source à Rennes en septembre 2017 : [Bilios](http://movilab.org/index.php?title=BILIOS%3A_Biomim%C3%A9tisme_Libre_et_Open_Source._Camp_2017). elle à notamment travaillé avec d'autres personnes sur une étude et une défition de l'architecture bioclimatique, dont les notes sont en libre accès sur un [pad collaboratif](https://semestriel.framapad.org/p/bioclimatisme) qui n'pas de licence attribuée à ce jour.
+Michèle Turbin, Architecte, licenciée en Histoire de l'Art et Archéologie, était présente au premier forum du Biomimétisme Libre et Open Source à Rennes en septembre 2017 : [Bilios](http://movilab.org/index.php?title=BILIOS%3A_Biomim%C3%A9tisme_Libre_et_Open_Source._Camp_2017). Elle à notamment travaillé avec d'autres personnes sur une étude et une définition de l'architecture bioclimatique, dont les notes sont en libre accès sur un [pad collaboratif](https://semestriel.framapad.org/p/bioclimatisme) qui n'pas de licence attribuée à ce jour.
 
-Il s'agit d'un travail avant conception amont de la construction architecturale qui à le fois montre la nécessité de l'effort à fournir avant d'envisager une architecture inspirée du vivant et qui donne également un support, et une matière de travail, pour toute impulsion d'apprentissage ou de fabrication.
+Il s'agit d'un travail avant conception, amont de la construction architecturale, qui a la fois montre la nécessité de l'effort à fournir avant d'envisager une architecture inspirée du vivant et qui donne également un support, et une matière de travail, pour toute impulsion d'apprentissage ou de fabrication.
 
-"[Biomimétisme en architecture : État, méthodes et outils](http://journals.openedition.org/craup/309)", par Natasha Chayaamor-Heil , François Guéna  et Nazila Hannachi-Belkadi, vient tout juste de paraitre sous licence CC BY-NC-ND 3.0. 
+"[Biomimétisme en architecture : État, méthodes et outils](http://journals.openedition.org/craup/309)", par Natasha Chayaamor-Heil , François Guéna  et Nazila Hannachi-Belkadi, vient tout juste de paraitre sous licence CC BY-NC-ND 3.0. Ce qui nous permet d'aller toujours un peu plus loin dans l'état de l'art, si il en est.
 
 ![](http://journals.openedition.org/craup/docannexe/image/309/img-11-small480.jpg)
 
@@ -68,8 +68,8 @@ Vous avez ,par exemple de ressources à disposition, les efforts de documentatio
 
 ## La suite ?
 
-Cet article est sous licence libre. À vous d'en faire ce que bon vous semble en respectant les condtions de la licence accessible en bas à gauche.
+Cet article est sous licence libre. À vous d'en faire ce que bon vous semble en respectant les conditions de la licence accessible en bas à gauche.
 
-Si vous voulez contribuer ou envisager ensmeble la suite, il y a : [ISSUES](https://github.com/XavCC/xavcc.github.io/issues).
+Si vous voulez contribuer ou envisager ensemble la suite, il y a : [ISSUES](https://github.com/XavCC/xavcc.github.io/issues).
 
 Vous pouvez soutenir ces efforts en faisant un don via l'icone liberapay jaune en bas à droite. Il y aura alors plus régulièrement des articles.
