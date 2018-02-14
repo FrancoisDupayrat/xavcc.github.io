@@ -11,7 +11,7 @@ D'après [Otto Herbet Arnold Schmitt](https://fr.wikipedia.org/wiki/Otto_Schmitt
 
 ![/images/biomimicy.jpg](/images/biomimicy.jpg)
 
-La biomimétisme est un processus d'apprentissage, basé et implanté au sein de l'expérimentation et du prototypage, interrogeant l'éthique, promettant une écologie (science de l'environnement) et des moyens plus soutenables (respect de l'environnement). Le travail de conception, le travail de biologie, le travail du code, le travail de l'architecture, et les autres disciplines, ne sont qu'un effets de bord de ce processus d'apprentissage. Nous devons apprendre à apprendre et apprendre à partager les connaissances, les pratiques et les documentations pour exercer le biomimétisme. Le Biomimétisme sans prototypage, sans expérimentation, sans connaissance libre, n'existe pas. 
+La biomimétisme est un processus d'apprentissage, basé et implanté au sein de l'expérimentation et du prototypage, interrogeant l'éthique, promettant une écologie (science de l'environnement) et des moyens plus soutenables (respect de l'environnement). Le travail de conception, le travail de biologie, le travail du code, le travail de l'architecture, et les autres disciplines, ne sont que des effets de bord de ce processus d'apprentissage. Nous devons apprendre à apprendre et apprendre à partager les connaissances, les pratiques et les documentations pour exercer le biomimétisme. Le Biomimétisme sans prototypage, sans expérimentation, sans connaissance libre, n'existe pas. 
 Pour ces conditions, nous avons besoin d'un système libre et open source.
 
 Voici quelques ressources pour procéder, un peu, à l'exercice de ces conditions.
@@ -59,7 +59,7 @@ Il s'agit d'un travail avant conception, amont de la construction architecturale
 
 Do It Yourself, faire soi-même, faire avec d'autres... De la biologie, du biodesign, de la bioinspiration.
 
-Vous avez ,par exemple de ressources à disposition, les efforts de documentations fournis par :
+Vous avez, par exemple de ressources à disposition, les efforts de documentation fournis par :
 
 + [Hackteria wiki](http://hackteria.org/wiki/index.php/Main_Page) : Open Source Biological Art, DIY Biology, Generic Laboratory Infrastructure 
 + [OpenWetWare Wiki](https://openwetware.org/wiki/DIYbio/FAQ)
