@@ -1,12 +1,14 @@
-Couper un arbre à la craie… Deep insight
-========================================
+---
+layout: post
+tilte: "Couper un arbre à la craie… Deep insight"
+date: 2016-05-02
+categories: ["hsociety"]
+---
 
 Il y a des singularités de la vie qui vous bousculent les neurones et
-vous chatouillent les philosophies. Là, au cœur de ces instants non…
+vous chatouillent les philosophies. Là, au cœur de ces instants…
 
-------------------------------------------------------------------------
-
-### Couper un arbre à la craie… Deep insight
+<img src="https://cdn-images-1.medium.com/max/800/1*_SZ71Itxim8f7SvHrOoEDg.jpeg" alt="Port de l’Arsenal, Paris, par Alexandre Vialle — This file is licensed under the Creative Commons Attribution 2.0 Generic license." class="graf-image" />
 
 Il y a des singularités de la vie qui vous bousculent les neurones et
 vous chatouillent les philosophies. Là, au cœur de ces instants non
@@ -14,8 +16,6 @@ ordinaires, s’insuffle et s’infuse la connaissance.
 Le popotin posé dans le carré d’une péniche parisienne, je me suis
 trouvé verni de personnes capables de se collisionner pour donner
 naissance à ces singularités.
-
-<img src="https://cdn-images-1.medium.com/max/800/1*_SZ71Itxim8f7SvHrOoEDg.jpeg" alt="Port de l’Arsenal, Paris, par Alexandre Vialle — This file is licensed under the Creative Commons Attribution 2.0 Generic license." class="graf-image" />
 
 Alchimie des parcours de vie de chacun, énergie des frottements de tous,
 trainées de poussières d’étoiles de nos expériences, accélération dans
@@ -62,7 +62,7 @@ congruence des éléments. Nous refaisons le monde.
 
 <img src="https://cdn-images-1.medium.com/max/800/1*Cw8lhKNCrZAnr38gVUaRZw.jpeg" alt="Ponton de la péniche quelques instants avant le début de la singularité — image par Xavier Coadic, licence CC-BY-SA 4.0" class="graf-image" />
 
-#### Allégorie de l’arbre à coupe à la craie
+## Allégorie de l’arbre à coupe à la craie
 
 Discuter le bout de gras entre explorateurs, ingénieux, partageurs, est
 amplement agréable ; il est tout autant amusant de ne pas se limiter à
@@ -119,7 +119,7 @@ résolve des défis techniques et technologiques avec peu de moyen et sans
 
 <img src="https://cdn-images-1.medium.com/max/800/1*ps4vjqf8zAtFDpRyQ8Cmhg.jpeg" alt="Horizontal Tree. 1911. huile sur toile. 75,9 × 112,2 cm. Utica, New York, Munson-Williams-Proctor Arts Institute. Piet Mondrian — Domaine public" class="graf-image" />
 
-#### Idées simples et principes de bases à l’innovation
+## Idées simples et principes de bases à l’innovation
 
 Si un point commun parmi d’autres doit ressortir du lien entre les
 peuples de la glace polaire et les peuples des mers du Bengale, c’est
@@ -198,18 +198,13 @@ arbres et les craies m’inspirent parfois.
 Voici donc les pérégrinations et expérimentations qui ont mené sur une
 péniche parisienne, parti en camion depuis Auray dans le Morbihan pour
 vivre ces moments:
-
+ 
 <a href="https://hackpad.com/LabOSe-LABoratoire-Open-Source-dExpriences-libres-et-distribues-SA2B7bDZcbV" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://hackpad.com/LabOSe-LABoratoire-Open-Source-dExpriences-libres-et-distribues-SA2B7bDZcbV"><strong>[#LabOSe] LABoratoire Open Source d'Expériences libres et distribuées</strong><br />
 <em>2 mois d'itinérance aux services des projets qui font sens et changent la France en 2016.</em>hackpad.com</a><a href="https://hackpad.com/LabOSe-LABoratoire-Open-Source-dExpriences-libres-et-distribues-SA2B7bDZcbV" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
-Tagged in <a href="https://medium.com/tag/life" class="p-tag">Life</a>,
-<a href="https://medium.com/tag/medium-france" class="p-tag">Medium France</a>,
-<a href="https://medium.com/tag/technology" class="p-tag">Technology</a>
+#### Tips
 
-By
-<a href="https://medium.com/@XavierCoadic" class="p-author h-card">Xavier Coadic</a>
-on [May 2, 2016](https://medium.com/p/92972716a044).
-
-<a href="https://medium.com/@XavierCoadic/couper-un-arbre-%C3%A0-la-craie-deep-insight-92972716a044" class="p-canonical">Canonical link</a>
-
-Exported from [Medium](https://medium.com) on February 17, 2018.
+Cet artilce est exorté depuis [medium](https://medium.com/@XavierCoadic) et converti en quelques secondes au format markdown avec [pandoc](https://pandoc.org)
+```
+$ pandoc monarticle.html -f html -t markdown_strict -s -o monarticle.md
+```
