@@ -68,10 +68,8 @@ Les auteurs ? Toutes les personnes qui ont participé à la documentation de ce 
 
 ![Couverture du gitbook Bretagne Lab Tour](https://framapic.org/Ou8IB3Ij571q/MbnCGL6pqvOq)
 
-<script src="https://liberapay.com/xavier/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique), qui avait parrainé et soutenu l'iniative, a accepté d'en écrire la préface. 
+Pour le second livre, [Carlos Moreno](https://fr.wikipedia.org/wiki/Carlos_Moreno_(scientifique)), qui avait parrainé et soutenu l'iniative, a accepté d'en écrire la préface. 
  
 Une couverture plus appropriée à une période sociale difficile en France, mars à juin 2016, mais le noir n'est pas la couleur du désespoir. Ce gitbook sera bien différent du premier avec des réflexions personnelles parfois philosophiques, des cartes géographiques numériques, des détails photographiques de nomadisme. 
  
@@ -79,8 +77,6 @@ Ce livre sera également sous licence creative commons BY SA 4.0.
 
 ![couverture du LabOSE](https://framapic.org/C9BSg9xu5BAG/WYgDtBnoCKA5)
 
-<script src="https://liberapay.com/xavier/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/xavier/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Je laisse libre à chacun la possibilité de soutenir financièrement ce travail de production d'oeuvres au format numérique.
 La qualité du travail et sa rapidité d'exécution sont liés aux ressources alouées (temps, humaines et financières).
