@@ -1,6 +1,6 @@
 ---
 layout: post
-tilte: "Couper un arbre à la craie… Deep insight"
+title: "Couper un arbre à la craie… Deep insight"
 date: 2016-05-02
 categories: ["hsociety"]
 ---
